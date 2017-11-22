@@ -20,6 +20,20 @@
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
       {% endif %}
+      
+      <nav class="navbar navbar-default">
+<div class="navbar-header">  
+<div class="collapse navbar-collapse" id="myNavbar">
+<ul class="nav navbar-nav">
+{% for item in site.menu %}
+<li><a href="{{ item.pagename }}">{{ item.name }}</a></li>
+{% endfor %}
+</ul>
+<ul class="nav navbar-nav navbar-right"></ul>
+</div>
+</div>
+</nav>      
+      
     </section>
 
     <section class="main-content">
