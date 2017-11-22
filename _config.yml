@@ -1,6 +1,6 @@
 
-theme: jekyll-theme-dinky
-title: Title xxx
+theme: jekyll-theme-cayman
+title: Paradigms of Globlization
 description: And this is the textual description of your website 
 menu: [
 {'name': 'Home', 'pagename': 'index'},
