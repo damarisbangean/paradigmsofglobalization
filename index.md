@@ -15,13 +15,13 @@ In this short video World Bank Group President Jim Yong Kim outlines three pilla
 
 # United Nations 
 - **Mission:** promoting international co-operation and to create and maintain international order
-- The UN works on many topics including the fight against poverty and the promotion of development.
-
-This short video gives you an impression of the scope of the UN's work.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bq8KmhkUdE" frameborder="0" allowfullscreen></iframe>
 
 # Our Research Project
+
+We looked at the second and third wave of globalization and wanted to find out if and how the perspective on globalization has changed. The World Bank and the UN are both important drivers of globalization and development. Has their approach to globalization changed?
+
+Below you can find our research questions, our data sets and the tests we ran.
+
 - Network Mapping
 - Epic Epoch
 - Demography
