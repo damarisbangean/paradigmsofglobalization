@@ -13,7 +13,6 @@ In this short video World Bank Group President Jim Yong Kim outlines three pilla
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K21VDmQo8VI" frameborder="0" allowfullscreen></iframe>
 
-
 # United Nations 
 - **Mission:** promoting international co-operation and to create and maintain international order
 
