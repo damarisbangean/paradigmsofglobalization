@@ -9,6 +9,10 @@ What do these organizations do?
 # World Bank
 - **Mission:** ending extreme poverty and building shared prosperity
 
+In this short video World Bank Group President Jim Yong Kim outlines three pillars that will drive momentum toward ending extreme poverty by 2030 and boosting shared prosperity.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/?v=JXdX6wBT6fU" frameborder="0" allowfullscreen></iframe>
+
 # United Nations 
 - **Mission:** promoting international co-operation and to create and maintain international order
 
