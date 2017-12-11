@@ -4,10 +4,8 @@
 # THE MAGIC HAPPENS HERE
 
 # World Bank - Network Map
-[[https://github.com/damarisbangean/paradigmsofglobalization/wiki/network-map---focus]]
 
-
-
+![bleh](https://github.com/damarisbangean/paradigmsofglobalization/blob/master/1.PNG)
 
 
 
