@@ -15,7 +15,11 @@ In this short video World Bank Group President Jim Yong Kim outlines three pilla
 
 # United Nations 
 - **Mission:** promoting international co-operation and to create and maintain international order
+- The UN works on many topics including the fight against poverty and the promotion of development.
 
+This short video gives you an impression of the scope of the UN's work.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bq8KmhkUdE" frameborder="0" allowfullscreen></iframe>
 
 # Here are the main tests we ran:
 - Network Mapping
