@@ -6,14 +6,14 @@ Following World War II, two of the major international organizations that essent
 
 Let's have a look at what these organizations do!
 
-# World Bank
+# **World Bank**
 - **Mission:** ending extreme poverty and building shared prosperity
 
 In this short video World Bank Group President Jim Yong Kim outlines three pillars that will drive momentum toward ending extreme poverty by 2030 and boosting shared prosperity.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K21VDmQo8VI" frameborder="0" allowfullscreen></iframe>
 
-# United Nations 
+# **United Nations** 
 - **Mission:** promoting international co-operation and to create and maintain international order
 - The UN works on many topics including the fight against poverty and the promotion of development.
 
