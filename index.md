@@ -10,6 +10,8 @@ What do these organizations do?
 <iframe width="560" height="315" src=
 
 paradigmsofglobalization/World_Bank_Group_logo.png
+
+
 # World Bank
 - Mission: ending extreme poverty and building shared prosperity
 
@@ -30,9 +32,7 @@ paradigmsofglobalization/unlogo.png
 - United Nations reports 
 - Our own proposed terms list
 
-Here are bullet points:
-- bullet1
-- bullet2
+
 
 ## Multimedia Content:
 
