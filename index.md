@@ -7,10 +7,10 @@ Following World War I, two of the major international organizations that essenti
 What do these organizations do? 
 
 # World Bank
-- Mission: ending extreme poverty and building shared prosperity
+- **Mission:** ending extreme poverty and building shared prosperity
 
 # United Nations 
-- Mission: promoting international co-operation and to create and maintain international order
+- **Mission:** promoting international co-operation and to create and maintain international order
 
 
 # Here are the main tests we ran:
@@ -28,11 +28,11 @@ What do these organizations do?
 
 # Research Questions
 
-- Question 1: Have the topics of interest of the United Nations and World Bank changed between the second and the third wave of globalization?
+- **Question 1:** Have the topics of interest of the United Nations and World Bank changed between the second and the third wave of globalization?
 - H0: No change can be observed. 
 - H1: There is a perceptible change between the second and third wave of globalization.
 
-- Question 2: If so, has the focus on international organizations changed from a pure economic focus to more a social economic focus? 
+- **Question 2:** If so, has the focus on international organizations changed from a pure economic focus to more a social economic focus? 
 - H0: The observed change can not be interpreted as a shift from pure economic to social economic. 
 - H1: A change is observable from a purely economic focus (second wave) to a social economic focus (third wave).
 
@@ -44,7 +44,7 @@ What do these organizations do?
 ###  videos
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=K21VDmQo8VI" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=JXdX6wBT6fU" frameborder="0" allowfullscreen></iframe>
 
 ### texts
 
