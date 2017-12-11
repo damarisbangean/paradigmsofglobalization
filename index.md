@@ -9,10 +9,12 @@ What do these organizations do?
 
 <iframe width="560" height="315" src=
 
-World Bank
-- Mission: achieving two goals, ending extreme poverty and building shared prosperity
+paradigmsofglobalization/World_Bank_Group_logo.png
+# World Bank
+- Mission: ending extreme poverty and building shared prosperity
 
-United Nations 
+paradigmsofglobalization/unlogo.png
+# United Nations 
 - Mission: promoting international co-operation and to create and maintain international order
 
 
