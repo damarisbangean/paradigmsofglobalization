@@ -5,6 +5,11 @@ description: And this is the textual description of your website
 menu: [
 {'name': 'Home', 'pagename': 'index'},
 {'name': 'this a the 2nd page', 'pagename': 'page1'},
+{'name': 'Terms List', 'pagename': 'Terms List'},
+{'name': 'United Nations Demography', 'pagename': 'UnitedNationsDemography'},
+{'name': 'World Bank Demography', 'pagename': 'UnitedNationsDemography'},
+{'name': 'Topic Modeling', 'pagename': 'Topic Modeling'},
+{'name': 'United Nations Demography', 'pagename': 'UnitedNationsDemography'},
 {'name': 'Visualizing International Relations', 'pagename': 'internationalrelations'},
-{'name': 'Yet Another page', 'pagename': 'page3'},
+{'name': 'Limitations', 'pagename': 'Limitations'},
 ]
