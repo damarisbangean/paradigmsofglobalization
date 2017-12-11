@@ -1,4 +1,4 @@
-# This is the main title of the page
+# PARADIGMS OF GLOBALIZATION
 
 # VERY EASY
 
