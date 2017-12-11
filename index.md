@@ -1,4 +1,4 @@
-# PARADIGMS OF GLOBALIZATION
+# **PARADIGMS OF GLOBALIZATION**
 
 In the last 150 years, the world has experienced three "waves of globalization" characterised by increased international integration: the 50 years preceding World War I, the quarter of a century after World War II, and the present time.
 
