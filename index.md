@@ -22,7 +22,7 @@ This short video gives you an impression of the scope of the UN's work.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-Bq8KmhkUdE" frameborder="0" allowfullscreen></iframe>
 
-# Our Research Project
+# **Our Research Project**
 
 We looked at the second and third wave of globalization and wanted to find out if and how the perspective on globalization has changed. The World Bank and the UN are both important drivers of globalization and development. Has their approach to globalization changed?
 
@@ -34,13 +34,13 @@ Below you can find our research questions, our data sets and the tests we ran.
 - Topic Modelling
 
 
-# Corpus 
+# **Corpus** 
 - World Bank reports 
 - United Nations reports 
 - Our own proposed terms list
 
 
-# Research Questions
+# **Research Questions**
 
 - **Question 1:** Have the topics of interest of the United Nations and World Bank changed between the second and the third wave of globalization?
 - H0: No change can be observed. 
