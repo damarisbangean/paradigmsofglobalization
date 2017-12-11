@@ -2,9 +2,9 @@
 
 In the last 150 years, the world has experienced three "waves of globalization" characterised by increased international integration: the 50 years preceding World War I, the quarter of a century after World War II, and the present time.
 
-Following World War II, two of the major international organizations that essentially embody the process of globalization come into being: the World Bank (1944) and the United Nations (1945). 
+Following World War II, two of the major international organizations that essentially embody the process of globalization came into being: the World Bank (1944) and the United Nations (1945). 
 
-What do these organizations do? 
+Let's have a look at what these organizations do!
 
 # World Bank
 - **Mission:** ending extreme poverty and building shared prosperity
