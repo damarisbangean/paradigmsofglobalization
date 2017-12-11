@@ -5,6 +5,7 @@
 
 # World Bank - Network Map
 
+![bleh](https://github.com/damarisbangean/paradigmsofglobalization/blob/master/2.PNG)
 ![bleh](https://github.com/damarisbangean/paradigmsofglobalization/blob/master/1.PNG)
 
 
