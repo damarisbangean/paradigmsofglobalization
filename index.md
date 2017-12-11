@@ -9,16 +9,9 @@ What do these organizations do?
 # World Bank
 - Mission: ending extreme poverty and building shared prosperity
 
-```
-# World Bank
-- Mission: ending extreme poverty and building shared prosperity
-```
-
-Highlight an excerpt as a block:
-```
 # United Nations 
 - Mission: promoting international co-operation and to create and maintain international order
-```
+
 
 # Here are the main tests we ran:
 - Network Mapping
@@ -39,7 +32,9 @@ Highlight an excerpt as a block:
 - H0: No change can be observed. 
 - H1: There is a perceptible change between the second and third wave of globalization.
 
-- Question 2: If so, has the focus on international organizations changed from a pure economic focus to more a social economic? H0: The observed change can not be interpreted as a shift from pure economic to social economic. H1: A change is observable from a purely economic focus (second wave) to a social economic focus (third wave).
+- Question 2: If so, has the focus on international organizations changed from a pure economic focus to more a social economic focus? 
+- H0: The observed change can not be interpreted as a shift from pure economic to social economic. 
+- H1: A change is observable from a purely economic focus (second wave) to a social economic focus (third wave).
 
 
 
@@ -48,13 +43,11 @@ Highlight an excerpt as a block:
 
 ###  videos
 
-Embedding Youtube content:
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=JXdX6wBT6fU" frameborder="0" allowfullscreen></iframe>
 
 ### texts
 
-Adding a pdf:
 
 <iframe class="scribd_iframe_embed" src="https://www.scribd.com/embeds/341852935/content?start_page=1&view_mode=scroll&access_key=key-QBYckJevb4n2sVehoVJU&show_recommendations=true" data-auto-height="false" data-aspect-ratio="0.7068965517241379" scrolling="no" id="doc_93562" width="100%" height="600" frameborder="0"></iframe>
 
