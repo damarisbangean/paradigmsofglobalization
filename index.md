@@ -1,8 +1,8 @@
 # PARADIGMS OF GLOBALIZATION
 
-In the last 150 years, the world has experienced three epochs, or "waves" characterised by increased international integration: the 50 years preceding World War I, the quarter of a century after World War II, and the present time.
+In the last 150 years, the world has experienced three "waves of globalization" characterised by increased international integration: the 50 years preceding World War I, the quarter of a century after World War II, and the present time.
 
-Following World War I, two of the major international organizations that essentially embody the process of globalization come into being: the World Bank (1944) and the United Nations (1945). 
+Following World War II, two of the major international organizations that essentially embody the process of globalization come into being: the World Bank (1944) and the United Nations (1945). 
 
 What do these organizations do? 
 
@@ -39,18 +39,6 @@ In this short video World Bank Group President Jim Yong Kim outlines three pilla
 - **Question 2:** If so, has the focus on international organizations changed from a pure economic focus to more a social economic focus? 
 - H0: The observed change can not be interpreted as a shift from pure economic to social economic. 
 - H1: A change is observable from a purely economic focus (second wave) to a social economic focus (third wave).
-
-
-
-## Multimedia Content:
-
-
-###  videos
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=JXdX6wBT6fU" frameborder="0" allowfullscreen></iframe>
-
-### texts
 
 
 <iframe class="scribd_iframe_embed" src="https://www.scribd.com/embeds/341852935/content?start_page=1&view_mode=scroll&access_key=key-QBYckJevb4n2sVehoVJU&show_recommendations=true" data-auto-height="false" data-aspect-ratio="0.7068965517241379" scrolling="no" id="doc_93562" width="100%" height="600" frameborder="0"></iframe>
