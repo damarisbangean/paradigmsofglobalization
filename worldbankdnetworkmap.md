@@ -5,9 +5,10 @@
 
 # World Bank - Network Map
 
-![bleh](https://github.com/damarisbangean/paradigmsofglobalization/blob/master/almost_full.PNG)
-
 The data set was parsed by splitting the original text into paragraphs. After parsing the data set successfully, term extraction was conducted to get a list of 100 terms from the data set. The list generated has “noun phrases” as the grammatical criteria. Finally, the network map was obtained using the Network Mapping script of Cortext. 
+
+<iframe src="https://documents.cortext.net/f271/f271db448c265a4fc80a8d67d819c0b2/52824/maps/hn-worldbank1946_2012top150-Terms-Terms-distributionalcooc-99999-oT0.41-9999-louTrue.pdf" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="800" height="700" allowfullscreen></iframe>
+
 The map obtained is ranging over the period 1946-2012. There are a total of 9 clusters that have been generated in the map.  Broadly, the clusters are about these general themes – Loans, Developing Countries, Developed Countries, Poverty Reduction, Agriculture and health, World Bank Committee, Stock and Finance, IBRD and IDA.
 
 ![bleh](https://github.com/damarisbangean/paradigmsofglobalization/blob/master/complete_with_tags.PNG)
