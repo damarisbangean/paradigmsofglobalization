@@ -12,5 +12,5 @@ menu: [
 {'name': 'United Nations Demography', 'pagename': 'UnitedNationsDemography'},
 {'name': 'Visualizing International Relations', 'pagename': 'internationalrelations'},
 {'name': 'Limitations', 'pagename': 'Limitations'},
-{'name': 'World Bank Network Map', 'pagename': 'WorldBankNetworkMap'},
+{'name': 'World Bank Network Map', 'pagename': 'worldbanknetworkmap'},
 ]
