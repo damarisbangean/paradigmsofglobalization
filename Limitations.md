@@ -1,2 +1,15 @@
-Missing Data:
-The corpus for the United Nations is composed of 49 items (61.3 MB) because 1949-1951, 1961 1964, 1968, 1991-1998 and 2004 reports could not be found. 
+# Limitations and Problems with our project: 
+While we tried to be thorough, unfortunately there were some issues that hindered our project's analysis. 
+
+# Initial problems 
+- At first, we also wanted to include reports from the OECD, which is an intergovernmental economic organisation with 35 member countries, founded in 1960 to stimulate economic progress and world trade.
+- However, unfortunately we could not access the reports to include in our analysis. 
+- We also faced a challenge with the oldest UN reports, as the older copies of the reports were scans of hard copies, rendering them unreadable by Cortext. For the rest of the UN reports, we were able to resolve this issue by converting them from PDF filed to TXT files. 
+
+
+# Missing Data:
+- The corpus for the United Nations is composed of 49 items (61.3 MB) because 1949-1951, 1961 1964, 1968, 1991-1998 and 2004 reports could not be found. 
+
+
+
+> [Home](index.md) - [Previous Page](page2.md) - [Next Page](page4.md)
