@@ -8,6 +8,6 @@ menu: [
 {'name': 'World Bank Demography', 'pagename': 'UnitedNationsDemography'}, {'name': 'Topic Modeling', 'pagename': 'Topic Modeling'},
 {'name': 'United Nations Demography', 'pagename': 'UnitedNationsDemography'},
 {'name': 'World Bank Network Map', 'pagename': 'worldbankdnetworkmap'}, {'name': 'Epic Epoch - World Bank', 'pagename': 'EpicEpochWB'}, 
-{'name': 'Visualizing International Relations', 'pagename': 'internationalrelations'},
+{'name': 'Demography - World Bank', 'pagename': 'WorldBankDemography'}, {'name': 'Visualizing International Relations', 'pagename': 'internationalrelations'},
 {'name': 'Limitations', 'pagename': 'Limitations'}, {'name': 'Feedback', 'pagename': 'finalpage'}
 ]
