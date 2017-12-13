@@ -4,6 +4,8 @@ The data set was parsed by splitting the original text into paragraphs. After pa
 
 > <iframe src="https://documents.cortext.net/8e9c/8e9ce298e1176ebf9442e23c54fb4060/55822/maps/hn-worldbank1946_2012top150-Terms-Terms-distributionalcooc-99999-oT0.36-9999-louTrue.pdf" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="800" height="800" allowfullscreen></iframe>
 
+> <iframe src="https://documents.cortext.net/lib/mapexplorer/explorerjs.html?file=https://assets.cortext.net/docs/dfcca083b83b5ec3d55497c1c47b6b30" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="800" height="800" allowfullscreen></iframe>
+
 The map obtained is ranging over the period 1946-2012. There are a total of 9 clusters that have been generated in the map.  Broadly, the clusters are about these general themes – Loans, Developing Countries, Developed Countries, Poverty Reduction, Agriculture and health, World Bank Committee, Stock and Finance, IBRD and IDA.
 
 ![tags]({{ site.url }}/paradigmsofglobalization/assets/images/complete_with_tags.PNG)
