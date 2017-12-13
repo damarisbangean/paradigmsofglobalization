@@ -12,14 +12,14 @@ These two organizations have different missions, different political scopes and 
 
 On this homepage you are able to read more about our methodology, our sources and our approach. But, let's have a look at what our two international organizations do and how they differ first!
 
-# **World Bank**
+## **World Bank**
 - **Mission:** ending extreme poverty and building shared prosperity
 
 In this short video World Bank Group President Jim Yong Kim outlines three pillars that will drive momentum toward ending extreme poverty by 2030 and boosting shared prosperity.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K21VDmQo8VI" frameborder="0" allowfullscreen></iframe>
 
-# **United Nations** 
+## **United Nations** 
 - **Mission:** promoting international co-operation and to create and maintain international order
 - The UN works on many topics including the fight against poverty and the promotion of development.
 
@@ -37,13 +37,15 @@ Below you can find our research questions, our data sets and the tests we ran.
 
 ## **Research Questions**
 
-- **Question 1:** Have the topics of interest of the United Nations and World Bank changed between the second and the third wave of globalization?
-- H0: No change can be observed. 
-- H1: There is a perceptible change between the second and third wave of globalization.
+**Question 1:** Have the topics of interest of the United Nations and World Bank changed between the second and the third wave of globalization?
+- **H0:** No change can be observed. 
+- **H1:** There is a perceptible change between the second and third wave of globalization.
 
-- **Question 2:** If so, has the focus on international organizations changed from a pure economic focus to more a social economic focus? 
-- H0: The observed change can not be interpreted as a shift from pure economic to social economic. 
-- H1: A change is observable from a purely economic focus (second wave) to a social economic focus (third wave).
+**Question 2:** If so, has the focus on international organizations changed from a pure economic focus to more a social economic focus? 
+- **H0:** The observed change can not be interpreted as a shift from pure economic to social economic. 
+- **H1:** A change is observable from a purely economic focus (second wave) to a social economic focus (third wave).
+
+## **Tests & Analysis**
 
 - Network Mapping
 - Epic Epoch
