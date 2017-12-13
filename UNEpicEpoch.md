@@ -11,3 +11,8 @@ The Epic Epoch is a simple script for tracking dramatic changes in the compositi
 From this epic epoch analysis we can see that terms such as "war", "industrialisation", "exports" and "investment" were more prominent in the second wave of globalization and faded out by the third wave. Whereas terms such as "health", "development" and "climate" appear more often in the third wave of globalization. 
 
 By looking at these terms, thus we can see the shift in the focus of the world over time. 
+
+Geographic analysis
+<iframe src="https://documents.cortext.net/3afd/3afd13b6f13d9e812a35205d0a3d6e84/55850/bumpy.html" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1000" height="1000" allowfullscreen></iframe>
+
+From this geopolitical epic epoch analysis we can also see the evolution of world events such as the India-China Nathu La and Cho La clash in the year 1967, the Japanese asset price bubble between 1986 and 1991 and the fall of the Soviet of Soviet Union in 1991. 
