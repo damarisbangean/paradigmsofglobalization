@@ -16,17 +16,17 @@ But, let's have a look at what our two international organizations do and how th
 
 ## **World Bank**
 
-The World Bank was created in 1944 as one of the Bretton Woods institutions together with the International Monetary Fund. It is therefore an international financial institution and provides loans to countries for capital programs and has currently 189 member states. The World Bank comprises the International Bank for Reconstruction and Development (IBRD) and the International Development Association (IDA). Its mission is the ending of extreme pverty and building shared prosperity. But, it is also committed to the achieve these goals through the promotion of foreign direct investment and the liberalization of international trade.
+The World Bank was created in 1944 as one of the **Bretton Woods institutions** together with the International Monetary Fund. It is therefore an international financial institution and provides loans to countries for capital programs and has currently 189 member states. The World Bank comprises the International Bank for Reconstruction and Development (IBRD) and the International Development Association (IDA). Its mission is the **ending of extreme poverty** and building shared prosperity. But, it is also committed to the achieve these goals through the **promotion of foreign direct investment and the liberalization of international trade**.
 
-I you prefer to listen to an explanation: Here is a short video of the World Bank Group President Jim Yong Kim talking about the three pillars that will drive momentum toward ending extreme poverty by 2030 and boosting shared prosperity.
+I you prefer to listen to an explanation: Here is a short video of the **World Bank Group President Jim Yong Kim** talking about the three pillars that will drive momentum toward ending extreme poverty by 2030 and boosting shared prosperity.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K21VDmQo8VI" frameborder="0" allowfullscreen></iframe>
 
 ## **United Nations** 
 
-The United Nations are probably the most well known international organization. They were founded in 1945 as a collective answer to the WW II. They currently have 193 member states. The mission and the work of the UN are guided by te purposed and principles contained in its founding Charter. The UN's main goal is maintaining international peace and security, but they work in many different fields. They also work towards achieving international co-operation in solving international problems of an economic, social, cultural, or humanitarian character. One part of this international cooperation were the Millennium Development Goals that were replaced by the Sustainable Development Goals in 2015. These goals include for example the fight against poverty and hunger. In working towards sustainable development for all countries, the UN is trying to make sure that globalization works for everyone.
+The United Nations are probably the most well known international organization. They were founded in 1945 as a collective answer to WW II. They currently have 193 member states. The mission and the work of the UN are guided by te purposed and principles contained in its founding Charter. The UN's main goal is maintaining **international peace and security**, but they work in many different fields. They also work towards achieving international co-operation in solving international problems of an economic, social, cultural, or humanitarian character. One part of this international cooperation were the Millennium Development Goals that were replaced by the **Sustainable Development Goals** in 2015. These goals include for example the fight against poverty and hunger. In working towards sustainable development for all countries, the UN is trying to make sure that globalization works for everyone.
 
-As we can see, the UN covers a broader range of topics compared to the World Bank. They have a more humanitarian and social outlook and don't have an underlying interest in promoting FDI or free trade.
+As we can see, the UN covers a **broader range of topics** compared to the World Bank. They have a more **humanitarian and social outlook** and don't have an underlying interest in promoting FDI or free trade.
 
 If you want to learn more about the UN, this short video gives you an impression of the scope of the UN's work.
 
@@ -35,9 +35,9 @@ If you want to learn more about the UN, this short video gives you an impression
 
 # **Our Research Project**
 
-We looked at the second and third wave of globalization and wanted to find out if and how the perspective on globalization has changed. The World Bank and the UN are both important drivers of globalization and development. Has their approach to globalization changed?
+We looked at the second and third wave of globalization and wanted to find out if and how the perspective on globalization has changed. The World Bank and the UN are both important drivers of globalization and development. **Has their understanding of globalization and their approach in managing the impact of globalization changed throughout the years?**
 
-Below you can find our research questions, our data sets and the tests we ran.
+Below you can find out more about our research design. You can read our research questions, learn more about our data sets and the tests we ran.
 
 
 ## **Research Questions**
