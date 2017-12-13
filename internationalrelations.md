@@ -11,6 +11,7 @@ By visualizing how countries move between clusters over time, we can thus observ
 ## 1946-1968
 > <iframe src="https://documents.cortext.net/lib/mapexplorer/explorerjs.html?file=https://assets.cortext.net/docs/d7d64cc38fff0d65a6ff8afbbc8c2894" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1100" height="800" allowfullscreen></iframe>
 
+In this first network map, we notice that the countries tend to by grouped by their development status. 
 
 
 
@@ -18,14 +19,15 @@ By visualizing how countries move between clusters over time, we can thus observ
 
 > <iframe src="https://documents.cortext.net/lib/mapexplorer/explorerjs.html?file=https://assets.cortext.net/docs/ec3b4e4e02a0035da7c63f574ca36878" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1100" height="800" allowfullscreen></iframe>
 
-
+Here, we notice that the countries are much more clearly categorized into regional groupings. 
 
 ## 1991-2012
 
 > <iframe src="https://documents.cortext.net/lib/mapexplorer/explorerjs.html?file=https://assets.cortext.net/docs/6c19a2c040fb851fa31254a73f1b7c67" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1100" height="800" allowfullscreen></iframe>
 
- 
-Notice the "explosion" of countries that came after the dissolution of the Soviet Union in 1991. Suddenly!
+Finally, our last network map delineats the distinctions between regions, and also indicates some outstanding geopolitical developments. 
+
+Particularly, notice the "explosion" of countries that came after the dissolution of the Soviet Union in 1991. Suddenly, after the Communist Revolutions from 1989-1992 we have an entirely new cluster of countries that came to the fore in the wake of the former Union of Soviet Socialist Republics (USSR)!
 
 
 
