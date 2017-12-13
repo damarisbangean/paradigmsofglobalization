@@ -1,13 +1,13 @@
 # **Demography: United Nations & World Bank**
 
 
-### **Methodology 
+### **Methodology**
 
 While exploring our data, we ran it through the Demography tool on CorText. Demography processes each field of the corpus and counts the raw evolution of occurrences of the top items. We used the "temporal evolution directory" where each field of the corpus will be enumerated over time in a csv file compiling the occurrences at each time step of the top items of the given field (original count of occurrences). We then used the "normalisation" option on CorText, as the reports included in our corpus were of varying magnitudes. 
 
 We analysed the evolution of our predetermined list of key items in the reports of the United Nations from 1947 till 2011 and in our reports of the World Bank from 1946 to 2012.
 
-### **How to use the graphs
+### **How to use the graphs**
 
 We offer some insights and analysis but you can use the graphs below to draw your own conclusions. As long as all words are included the display is rather difficult to interpret, but you can choose which items to display by clicking on the sign next to them. Additionally, you can switch between different designs of display.
 
