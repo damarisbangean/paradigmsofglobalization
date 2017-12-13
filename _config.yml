@@ -3,11 +3,16 @@ theme: jekyll-theme-cayman
 title: Paradigms of Globlization
 description: And this is the textual description of your website 
 menu: [
-{'name': 'Home', 'pagename': 'index'}, {'name': 'this a the 2nd page', 'pagename': 'page1'},
-{'name': 'Terms List', 'pagename': 'Terms List'}, {'name': 'United Nations Demography', 'pagename': 'UnitedNationsDemography'},
-{'name': 'World Bank Demography', 'pagename': 'UnitedNationsDemography'}, {'name': 'Topic Modeling', 'pagename': 'Topic Modeling'},
+{'name': 'Home', 'pagename': 'index'},
+{'name': 'Terms List', 'pagename': 'Terms List'}, 
+{'name': 'Key Terms Frequency', 'pagename': 'Key_Words_Frequency'}, 
 {'name': 'United Nations Demography', 'pagename': 'UnitedNationsDemography'},
-{'name': 'World Bank Network Map', 'pagename': 'worldbankdnetworkmap'}, {'name': 'Epic Epoch - World Bank', 'pagename': 'EpicEpochWB'}, 
-{'name': 'Demography - World Bank', 'pagename': 'WorldBankDemography'}, {'name': 'Visualizing International Relations', 'pagename': 'internationalrelations'},
-{'name': 'Limitations', 'pagename': 'Limitations'}, {'name': 'Feedback', 'pagename': 'finalpage'}
+{'name': 'World Bank Demography', 'pagename': 'UnitedNationsDemography'}, 
+{'name': 'United Nations Demography', 'pagename': 'UnitedNationsDemography'},
+{'name': 'World Bank Network Map Insights', 'pagename': 'worldbankdnetworkmap'}, 
+{'name': 'Epic Epoch - World Bank', 'pagename': 'EpicEpochWB'}, 
+{'name': 'Demography - World Bank', 'pagename': 'WorldBankDemography'}, 
+{'name': 'Visualizing International Relations', 'pagename': 'internationalrelations'},
+{'name': 'Limitations', 'pagename': 'Limitations'}, 
+{'name': 'Feedback', 'pagename': 'finalpage'}
 ]
