@@ -9,7 +9,7 @@ The data set was parsed by splitting the original text into paragraphs. After pa
 
 ![af](https://github.com/damarisbangean/paradigmsofglobalization/blob/master/assets/images/almost_full.PNG)
 
-![af]({{ site.url }}/paradigmsofglobalization/assets/images/Capture.png)
+![af]({{ site.url }}/paradigmsofglobalization/assets/images/almost_full.PNG)
 
 The map obtained is ranging over the period 1946-2012. There are a total of 9 clusters that have been generated in the map.  Broadly, the clusters are about these general themes – Loans, Developing Countries, Developed Countries, Poverty Reduction, Agriculture and health, World Bank Committee, Stock and Finance, IBRD and IDA.
 
