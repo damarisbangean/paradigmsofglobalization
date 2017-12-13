@@ -1,6 +1,6 @@
 #Network Mapping: United Nations 
 
-There five main nodes:
+**There are five main nodes:
 1. Industrialization and production
 2. Globalization and risk
 3. School and education
