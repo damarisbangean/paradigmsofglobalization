@@ -1,6 +1,6 @@
 # **Epic Epoch: United Nations & World Bank**
 
-### **United Nations**
+## **United Nations**
 
 The Epic Epoch is a simple script for tracking dramatic changes in the composition of a field over time on CorText. Presneted below is the epic epoch analysis for the UN corpus. The dip between 1990-2000, is due to missing data for that period.
 
@@ -19,7 +19,7 @@ By looking at these terms, thus we can see the shift in the focus of the world o
 From this geopolitical epic epoch analysis we can also see the evolution of world events such as the India-China Nathu La and Cho La clash in the year 1967, the Japanese asset price bubble between 1986 and 1991 and the fall of the Soviet of Soviet Union in 1991. 
 
 
-### **World Bank**
+## **World Bank**
 
 We observe many things in this epic epoch output that we also discuss in our interpretation of demography. Obviously, **'development'** is from the very beginning the most frequently used item and remains in this position throughout the years. Other words like **'power'** seem to be relevant only in the first ten years. After 1960, it becomes rarely used and rather insignificant. Some words like **'project'** remain in the focus of the World Bank a bit longer because this item is tightly linked to the work the World Bank carries out. 'Project' was the second most used word after 'development' in the 1970s and early 1980s, but was later surpassed by **'policy'** and **'growth'**. Both items remained very central to the annual reports during the early 1990s and 'policy' continued to be used frequently while 'growth' turned out to be only a momentary focus. It is possible that the World Bank started to see economic growth as only one goal among several important goals and the item was therefore used less frequently.
 
@@ -32,4 +32,32 @@ Maybe due too the **global financial crisis** in 2007/2008 and its aftermath, wo
 
 
 > <iframe src="https://documents.cortext.net/8899/8899fc31ae8511600523066d5bf11037/52804/bumpy.html" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1000" height="1000" allowfullscreen></iframe>
+
+
+### **World Bank: Geographic Analysis**
+Here we run an epic epoch on Cortext to analyze the most frequently occuring country names in the World Bank reports. 
+First, we run a Name Entity Recognizer on the corpus to extract the most frequently occuring terms, and we standardize the list names to avoid double counting names when they might just be the same place (i.e. The United States, the US, the U.S. all become different recognizable forms of the "United States") 
+
+Here is our "clean" list of country names that we will use: 
+
+#### **Term List**
+
+> <iframe src="https://docs.google.com/a/sciencespo.fr/spreadsheets/d/1tF_U7ZMbhaeNWkYaYExDcN3MQUNGQczto7o-nxAzUkw/edit?usp=sharing" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="800" height="800" allowfullscreen></iframe>
+
+Once we have our "clean" list of country names, we run an Epic Epoch. 
+
+An Epic Epoch is a simple script for tracking dramatic changes in the composition of a field over time. It acts in three steps:
+- First, the N most frequently occurring entities are selected at each time period,
+- A frequency timeline is built for each of the selected terms
+- A bump graph shows the evolution of frequency and ranking through time
+
+
+Unsurprisingly, the US figures most prominently throughout the reports. But, smaller countries also rise and fall over time, as evidenced by major world events.  
+- Indonesian mass killings of 1965–1966
+- Japan’s rise in 1990 at the start of its financial crisis
+- Poland’s 1989 revolution against Communism
+- Bosnian genocide 1995 
+- West bank and Gaza 1993/1995 
+- Bangladesh 2004 tsunami
+- Start of Arab spring December 2010
 
