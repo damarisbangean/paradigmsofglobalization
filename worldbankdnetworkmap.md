@@ -1,8 +1,3 @@
-# BONJOUR VATSALYA
-
-# Bienvenue to the World Bank demography page
-# THE MAGIC HAPPENS HERE
-
 # World Bank - Network Map
 
 The data set was parsed by splitting the original text into paragraphs. After parsing the data set successfully, term extraction was conducted to get a list of 100 terms from the data set. The list generated has “noun phrases” as the grammatical criteria. Finally, the network map was obtained using the Network Mapping script of Cortext. 
@@ -33,6 +28,6 @@ It is also to be noted that the cluster “Loans” is connected to developing c
 
 This is an important link as it might be telling us about the terms of the loans and other financial help that is extended to developing countries by the World Bank. It seems that the terms of these loans are dependent upon the balance of payments of the countries, which is quite logical in the real world since the lenders do always ensure the re-payment capacities of the borrowers.  The node Exchange Rates is connected to Interest Rates, credit risk, risk management etc which indeed point to the fact that the country’s exchange rate indirectly help in determining the terms of the financial help that is extended. 
 
-The network Map produced is highly insightful if one wants to understand the subtle links between the focus of the World Bank. It is interesting to see how some the nodes are small, but they do serve as connectors. The analysis of a corpus becomes much more interesting when we run a network mapping script. Having already worked on the World Bank dataset, I can tell that network mapping is an essential tool if one wants to discover linkages and dig deeper into the corpus. 
+The network Map produced is highly insightful if one wants to understand the subtle links between the focus of the World Bank. It is interesting to see how some the nodes are small, but they do serve as connectors. The analysis of a corpus becomes much more interesting when we run a network mapping script. Network mapping is an essential tool if one wants to discover linkages and dig deeper into the corpus. 
 
 
