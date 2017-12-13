@@ -2,7 +2,7 @@
 
 The data set was parsed by splitting the original text into paragraphs. After parsing the data set successfully, term extraction was conducted to get a list of 100 terms from the data set. The list generated has “noun phrases” as the grammatical criteria. Finally, the network map was obtained using the Network Mapping script of Cortext. 
 
-<iframe class="map_wb" src="https://mail.google.com/mail/u/0/#inbox/1604f6d8456928e6?projector=1" data-auto-height="false" data-aspect-ratio="0.7068965517241379" scrolling="no" id="doc_93562" width="100%" height="600" frameborder="0"></iframe>
+<iframe class="map_wb" src="https://github.com/damarisbangean/paradigmsofglobalization/blob/master/map.pdf" data-aspect-ratio="0.7068965517241379" scrolling="no" id="doc_93562" width="100%" height="600" frameborder="0"></iframe>
 
 ![af]({{ site.url }}/paradigmsofglobalization/assets/images/almost_full.PNG)
 
