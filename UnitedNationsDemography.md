@@ -1,11 +1,13 @@
-Demographic Analysis
+# Demographic Analysis of the United Nations 
 
-Methodology: 
+
+### Methodology: 
 
 While exploring our data, we ran it through the Demography tool on CorText. Demography processes each field of the corpus and counts the raw evolution of occurrences of the top items. We used the "temporal evolution directory" where each field of the corpus will be enumerated over time in a csv file compiling the occurrences at each time step of the top items of the given field (original count of occurrences). We then used the "normalisation" option on CorText, as the reports included in our corpus were of varying magnitudes. 
 
 We analysed the evolution of our predetermined list of  key items in the reports of the United Nations from 1947 till 2011. 
 
+# Results
 The top terms in our demography are as follows:
 
 ![af](https://github.com/damarisbangean/paradigmsofglobalization/blob/master/Screen%20Shot%202017-12-13%20at%2010.39.02%20AM.png)
