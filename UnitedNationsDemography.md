@@ -1,17 +1,17 @@
 # **Demography: United Nations & World Bank**
 
 
-## Methodology 
+### **Methodology 
 
 While exploring our data, we ran it through the Demography tool on CorText. Demography processes each field of the corpus and counts the raw evolution of occurrences of the top items. We used the "temporal evolution directory" where each field of the corpus will be enumerated over time in a csv file compiling the occurrences at each time step of the top items of the given field (original count of occurrences). We then used the "normalisation" option on CorText, as the reports included in our corpus were of varying magnitudes. 
 
 We analysed the evolution of our predetermined list of key items in the reports of the United Nations from 1947 till 2011 and in our reports of the World Bank from 1946 to 2012.
 
-## How to use the graphs
+### **How to use the graphs
 
-We offer some insights and analysis but you can use the graph below to draw your own conclusions. As long as all words are included the display is rather difficult to interpret, but you can choose which items to display by clicking on the sign next to them. Additionally, you can switch between different designs of display.
+We offer some insights and analysis but you can use the graphs below to draw your own conclusions. As long as all words are included the display is rather difficult to interpret, but you can choose which items to display by clicking on the sign next to them. Additionally, you can switch between different designs of display.
 
-## **United Nations:** Results & Interpretation
+### **United Nations:** Results & Interpretation
 The top terms in our demography are as follows:
 
 ![af](https://github.com/damarisbangean/paradigmsofglobalization/blob/master/Screen%20Shot%202017-12-13%20at%2010.39.02%20AM.png)
@@ -21,7 +21,7 @@ The top terms in our demography are as follows:
 From this demography process, we can see that terms like "health care", "poverty reduction" and "climate change" came to prominence only during the third wave of globalisation, whereas terms like " external debt" and "terms of trade" appeared more frequently during the second wave of globalization.
 
 
-## **World Bank:** Results & Interpretation
+### **World Bank:** Results & Interpretation
 
 
 First of all, **'globalization'** seems to be a rather recent term. It is mentioned in 1995 for the very first time. And the World Bank doesn't use it very often. It peaked in 2001 and 2002 with a frequency of nine. This could indicate that the World Bank reports more on specific projects and loans it was working on or issued during the previous year instead of being concerned with globalization as a whole. The concept of globalization is comparatively new even though we now talk about waves of globalization that go back to the 19th century. 'Globalization' was first used in an economic sense in the early 1980s.
