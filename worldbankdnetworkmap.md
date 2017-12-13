@@ -27,6 +27,8 @@ It is interesting to note that the edge between Health Care and Federal Republic
 
 > ![wb1]({{ site.url }}/paradigmsofglobalization/blob/master/assets/images/1.PNG)
 
+![wb1](https://github.com/damarisbangean/paradigmsofglobalization/blob/master/1.PNG)
+
 It is also to be noted that the cluster “Loans” is connected to developing countries through a single node, that is, Exchange Rates (See Figure below). 
 
 ![wb2](https://github.com/damarisbangean/paradigmsofglobalization/blob/master/assets/images/2.PNG)
