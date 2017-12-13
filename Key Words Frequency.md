@@ -17,15 +17,15 @@ In that sense, it can be stated that both organizations had different approaches
 development and industrialization strategy for developing countries, since during the debt crisis it was less mentioned. For the WB, trade 
 may be more related with international trade, since its frequency seems to be more related with the world economic cycles. 
 
-paradigmsofglobalization/Trade UN.png
-paradigmsofglobalization/Trade WB.png
+![tags]({{ site.url }}/paradigmsofglobalization/Trade UN.png)
+![tags]({{ site.url }}/paradigmsofglobalization/Trade WB.png)
 
 # Private sector
 As the role of the private sector has become more important during the last three decades, through new managerial approaches, for the WB
 the concept "private sector" reached its' highest peak during the 90s and has decreased since the 2000. Financial crises of the beginning 
 of the XX century may have been a motive for it. For the UN, it reached its' highest peak during the internet crisis of the 2002.
-paradigmsofglobalization/Private sector WB.png
-paradigmsofglobalization/Private sector UN.png
+![tags]({{ site.url }}/paradigmsofglobalization/Private sector WB.png)
+![tags]({{ site.url }}/paradigmsofglobalization/Private sector UN.png)
 
 # Poverty
 According to our hypothesis, international agencies such as the WB and the UN had a more "economical approach" during 
@@ -33,8 +33,8 @@ the first half of the XXth century. But the second half, left more space for soc
 The frequency of the word "Poverty" seems to prove us right, because for both, the WB and the UN, it begins to be very important during
 the third wave of globalization. However, it is important to notice that it started to be more present in the WB annual reports during the 80s,
 but for the UN it was not until the 2000.  
-paradigmsofglobalization/Poverty WB.png
 
+![tags]({{ site.url }}/paradigmsofglobalization/Poverty WB.png)
 ![UNpov] (https://github.com/damarisbangean/paradigmsofglobalization/blob/master/Poverty%20UN.png)
 
 
