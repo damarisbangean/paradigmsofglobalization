@@ -10,7 +10,8 @@ menu: [
 {'name': 'World Bank Demography', 'pagename': 'UnitedNationsDemography'},
 {'name': 'Topic Modeling', 'pagename': 'Topic Modeling'},
 {'name': 'United Nations Demography', 'pagename': 'UnitedNationsDemography'},
+{'name': 'World Bank Network Map', 'pagename': 'worldbankdnetworkmap'},
 {'name': 'Visualizing International Relations', 'pagename': 'internationalrelations'},
 {'name': 'Limitations', 'pagename': 'Limitations'},
-{'name': 'World Bank Network Map', 'pagename': 'worldbankdnetworkmap'},
+{'name': 'Feedback', 'pagename': 'finalpage'},
 ]
