@@ -1,4 +1,4 @@
-# Key Words Frequency 
+# Key Terms Frequency 
 
 **Comparison between the World Bank and the United Nations**
 
