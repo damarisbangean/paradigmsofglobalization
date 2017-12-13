@@ -5,9 +5,9 @@
 The Epic Epoch is a simple script for tracking dramatic changes in the composition of a field over time on CorText.
 It acts in three steps:
 
-First, the N most frequently occurring entities are selected at each time period,
-A frequency timeline is built for each of the selected terms
-A bump graph shows the evolution of frequency and ranking through time
+1. The N most frequently occurring entities are selected at each time period,
+2. A frequency timeline is built for each of the selected terms
+3. A bump graph shows the evolution of frequency and ranking through time
 
 Presented below is the epic epoch analysis for the UN corpus. 
 
@@ -17,8 +17,11 @@ Similar to our demography analysis, the we ran the epic epoch analysis for the d
 
 > <iframe src="https://documents.cortext.net/c0d8/c0d8c7ed8f3ecccb3b268c168ace5b36/53629/bumpy.html" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1000" height="1000" allowfullscreen></iframe>
 
-The UN was founded following the Second World War, in 1945 with 50 nations and several non-governmental organisations committing to maintaining international peace and security, developing friendly relations among nations and promoting social progress, better living standards and human rights. The main aim of the United Nations was to ensure 
-From this epic epoch analysis we can see that terms such as "war", "industrialisation", "exports" and "investment" were more prominent in the second wave of globalization and faded out by the third wave. Whereas terms such as "health", "development" and "climate" appear more often in the third wave of globalization. 
+The UN was founded following the Second World War, in 1945 with 50 nations with the aim of maintaining international peace and security after the world war. From this epic epoch analysis we can see that terms such as **"war"** which was frequently used in the 1950s faded out by the 1970s. 
+
+Other words like **"industrialisation"**, **"exports"** and **"investment"** were more prominent in the second wave of globalization and faded out by the third wave. We can also see that **trade** and **investment** were terms that were frequently used in the annual reports of the 1960s. 
+
+In the third wave of globalisation there is a shift in the focus of the UN towards a more socioeconomic approach such as **"health"**, **"development"** and **"climate"**, where the focus shifted towards international co-operation in solving international problems of an economic, social, cultural, or humanitarian character. 
 
 By looking at these terms, thus we can see the shift in the focus of the world over time. 
 
@@ -26,7 +29,10 @@ By looking at these terms, thus we can see the shift in the focus of the world o
 
 <iframe src="https://documents.cortext.net/3afd/3afd13b6f13d9e812a35205d0a3d6e84/55850/bumpy.html" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1000" height="1000" allowfullscreen></iframe>
 
-From this geopolitical epic epoch analysis we can also see the evolution of world events such as the India-China Nathu La and Cho La clash in the year 1967, the Japanese asset price bubble between 1986 and 1991 and the fall of the Soviet of Soviet Union in 1991. 
+From this geopolitical epic epoch analysis we can also see the evolution of world events such as:
+- India-China Nathu La and Cho La clash in the year 1967
+- Japanese asset price bubble between 1986
+- 1991 fall of the Soviet of Soviet Union in 1991. 
 
 
 ## **World Bank**
