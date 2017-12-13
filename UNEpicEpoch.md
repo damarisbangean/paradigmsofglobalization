@@ -12,7 +12,7 @@ From this epic epoch analysis we can see that terms such as "war", "industrialis
 
 By looking at these terms, thus we can see the shift in the focus of the world over time. 
 
-### United Nations: Geographic Analysis**
+### **United Nations: Geographic Analysis**
 
 <iframe src="https://documents.cortext.net/3afd/3afd13b6f13d9e812a35205d0a3d6e84/55850/bumpy.html" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1000" height="1000" allowfullscreen></iframe>
 
