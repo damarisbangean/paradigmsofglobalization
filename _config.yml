@@ -13,4 +13,5 @@ menu: [
 {'name': 'Visualizing International Relations', 'pagename': 'internationalrelations'},
 {'name': 'Limitations', 'pagename': 'Limitations'}, 
 {'name': 'Feedback', 'pagename': 'finalpage'}
+{'name': 'Feelling Inspired?', 'pagename': 'inspired'}
 ]
