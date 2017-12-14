@@ -90,7 +90,21 @@ This is best exemplified by how the United Nations' initial 2000 Millenium Devel
 - **Goal 6:** [Combat HIV/AIDS, malaria and other diseases](http://www.un.org/millenniumgoals/aids.shtml)
 
 
+All of these goals, while all directed towards generally *improving health* were made all the more coherent and cohesive by [Goal 3](https://www.google.fr/search?q=united+nations+sustainable+development+goals+health&rlz=1C1CHBF_enUS701US701&oq=united+nations+health+sus&aqs=chrome.1.69i57j0.6102j0j7&sourceid=chrome&ie=UTF-8) of the Sustainable Development Goals, which simply aimed to: 
+
+> Ensure healthy lives and promote well-being for all at all ages
+
+
 <iframe src="https://giphy.com/embed/BqxrLook9LQYg" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GiveAGIF-giveagif-BqxrLook9LQYg">via GIPHY</a></p>
+
+This added clarity is essential to helping the United Nations set attainable targets and create measurements by which to track its progres made on the goal. Indeed, the SDG for ensuring healthly lives literally combines **_all three_** of the former goals related to health under this one "umbrella" of health, and has these exact top three [goals]: 
+
+- By 2030, reduce the global maternal mortality ratio to less than 70 per 100,000 live births
+- By 2030, end preventable deaths of newborns and children under 5 years of age, with all countries aiming to reduce neonatal mortality to at least as low as 12 per 1,000 live births and under-5 mortality to at least as low as 25 per 1,000 live births
+- By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases and combat hepatitis, water-borne diseases and other communicable diseases
+
+
+
 
 # **Climate**
 As mentioned before, not only were *social* issues were important during the third wave of globalization, but the arrival towards a more holistic view of development in general led to the increasing attention towards of other pressing global isseus, such as climate.
