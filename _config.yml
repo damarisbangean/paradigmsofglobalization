@@ -7,7 +7,7 @@ menu: [
 {'name': 'Key Terms Frequency', 'pagename': 'Key_Words_Frequency'}, 
 {'name': 'Demography : United Nations and World Bank', 'pagename': 'Demography'}, 
 {'name': 'Epic Epoch: United Nations & World Bank', 'pagename': 'epic'}, 
-{'name': 'United Nations Network Map Insights', 'pagename': 'United Nations Network Mapping'},
+{'name': 'United Nations Network Map Insights', 'pagename': 'UnitedNationsNetworkMapping'},
 {'name': 'World Bank Network Map Insights', 'pagename': 'worldbankdnetworkmap'}, 
 {'name': 'Geographic Epic Epoch', 'pagename': 'GeographicEpicEpoch'}, 
 {'name': 'Visualizing International Relations', 'pagename': 'internationalrelations'},
