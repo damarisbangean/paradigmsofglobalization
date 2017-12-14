@@ -23,7 +23,7 @@ However, as we know, many issues of poverty that the World Bank seeks to address
 
 Here, we notice that the countries are much more clearly categorized into regional groupings. 
 
-## 1991-2012
+## **1991-2012**
 
 > <iframe src="https://documents.cortext.net/lib/mapexplorer/explorerjs.html?file=https://assets.cortext.net/docs/6c19a2c040fb851fa31254a73f1b7c67" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1100" height="800" allowfullscreen></iframe>
 
@@ -35,12 +35,12 @@ Particularly, notice the "explosion" of countries that came after the dissolutio
 
 
 **Decolonization** 
-![decolonization]({{ site.url }}/paradigmsofglobalization//assets/images/decolonization-updated.jpg	
+![decolonization]({{ site.url }}/paradigmsofglobalization//assets/images/decolonization-updated.jpg)	
 
 
 **The Breakdown of the Former Soviet Union**
 
-![formersov]({{ site.url }}/paradigmsofglobalization//assets/images/berlinWall.jpg
+![formersov]({{ site.url }}/paradigmsofglobalization//assets/images/berlinWall.jpg)
 
 > People gather near a part of the Berlin Wall that has been broken down after the communist German Democratic Republic’s (GDR) decision to open borders between East and West Berlin, circa November 1989. (Photo by Carol Guzy/The Washington Post/Getty Images)
 
