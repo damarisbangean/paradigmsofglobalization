@@ -1,19 +1,23 @@
 # Epic Epoch by country names 
-Here we run an epic epoch on Cortext to analyze the most frequently occuring country names in the World Bank reports. 
-First, we run a Name Entity Recognizer on the corpus to extract the most frequently occuring terms, and we standardize the list names to avoid double counting names when they might just be the same place (i.e. The United States, the US, the U.S. all become different recognizable forms of the "United States") 
+Here we run an Epic Epoch on Cortext to analyze the most frequently occuring country names in the World Bank reports. 
 
-Here is our "clean" list of country names that we will use: 
+An Epic Epoch is a simple script for tracking dramatic changes in the composition of a field over time. It acts in three steps:
+- First, the N most frequently occurring entities are selected at each time period,
+- A frequency timeline is built for each of the selected terms
+- A bump graph shows the evolution of frequency and ranking through time
+
+
+# How to run an Epic Epoch? 
+
+First, we run a Name Entity Recognizer (which allows us to identify and index names, places, and organizations). As we want to focus on places, we choose the GPE on the corpus to extract the most frequently occuring terms, and we standardize the list names to avoid double counting names when they might just be the same place (i.e. The United States, the US, the U.S. all become different recognizable forms of the "United States"). 
+
+Below is our "clean" list of country names that we will use: 
 
 ### Term List
 
 > <iframe src="https://docs.google.com/a/sciencespo.fr/spreadsheets/d/1tF_U7ZMbhaeNWkYaYExDcN3MQUNGQczto7o-nxAzUkw/edit?usp=sharing" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="800" height="800" allowfullscreen></iframe>
 
 Once we have our "clean" list of country names, we run an Epic Epoch. 
-
-An Epic Epoch is a simple script for tracking dramatic changes in the composition of a field over time. It acts in three steps:
-- First, the N most frequently occurring entities are selected at each time period,
-- A frequency timeline is built for each of the selected terms
-- A bump graph shows the evolution of frequency and ranking through time
 
 
 Unsurprisingly, the US figures most prominently throughout the reports. But, smaller countries also rise and fall over time, as evidenced by major world events.  
