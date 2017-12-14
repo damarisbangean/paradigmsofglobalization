@@ -19,7 +19,9 @@ The UN was founded following the Second World War, in 1945 with 50 nations with 
 
 In January 1961, the United Nations resolved that the decade of the 1960s would be the decade of development. Thus, the organisation expanded its motto towards securing both international peace and prosperity. Terms words like **"industrialisation"**, **"exports"** and **"investment"** testify that the organisation shifted its focus towards acheieving development through industrialisation.
 
-In the third wave of globalisation there is once again a change in the focus of the United Nations towards a more socioeconomic approach and terms such as **"health"**, **"development"**, **energy** and **"climate"** were frequently used. From a purely economic perspective of development the United Nations shifted its focus to also solving international problems of an economic, social, cultural, or humanitarian character. 
+In the third wave of globalisation there is once again a change in the focus of the United Nations towards a more socioeconomic approach and terms such as **"health"**, **"development"** and **poverty** were frequently used. 
+
+The United Nations Framework Convention on Climate Change (UNFCCC), an international environmental treaty was adopted in 1992, and this is seen in our results as terms like **climate** and **energy** appeared frequently only post the 1990s. Thus, we see that from a purely economic perspective of development the United Nations shifted its focus to also solving international problems of an economic, social, cultural, or humanitarian character. 
 
 ## **World Bank**
 
