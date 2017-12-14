@@ -4,10 +4,9 @@ title: Paradigms of Globlization
 description: And this is the textual description of your website 
 menu: [
 {'name': 'Home', 'pagename': 'index'},
-{'name': 'Terms List', 'pagename': 'Terms List'}, 
 {'name': 'Key Terms Frequency', 'pagename': 'Key_Words_Frequency'}, 
-{'name': 'Demography : United Nations and World Bank', 'pagename': 'Demography'}, 
-
+{'name': 'Demography : United Nations and World Bank', 'pagename': 'Demography'},
+{'name': 'Epic Epoch : United Nations and World Bank', 'pagename': 'epic'}
 {'name': 'World Bank Network Map Insights', 'pagename': 'worldbankdnetworkmap'}, 
 {'name': 'Epic Epoch: United Nations & World Bank', 'pagename': 'epic'}, 
 {'name': 'Visualizing International Relations', 'pagename': 'internationalrelations'},
