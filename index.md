@@ -6,11 +6,12 @@ Globalization manifested itself very differently around the world and not every 
 
 Still, globalization remains an ambiguous term and its naming and manifestation may have changed during the waves of globalization the world has experienced so far. In all of this, **international organisations** shape and drive globalization because they are global rule and standard setters and are deeply involved with supporting sustainable development and building a more prosperous world for everybody. Following World War II, two of the major international organizations that essentially embody the process of globalization came into being: the **[World Bank (1944)](http://www.worldbank.org/en/who-we-are)** and the **[United Nations (1945)](http://www.un.org/en/about-un/index.html)**.
 
-> <table>
-> <tr>
-> <td>![tags]({{ site.url }}/paradigmsofglobalization/assets/images/wblogo.jpg)</td><td>,![tags]({{ site.url }}/paradigmsofglobalization/assets/images/unlogo.png)</td>
-> </tr>
-> </table>
+![tags]({{ site.url }}/paradigmsofglobalization/assets/images/wblogo.jpg)
+
+
+
+
+![tags]({{ site.url }}/paradigmsofglobalization/assets/images/unlogo.png)
 
 
 
