@@ -65,7 +65,7 @@ As mentioned before, not only were social issues were important during the third
 
 > <table>
 > <tr>
-> <td><iframe src="https://giphy.com/embed/l1J9IIz6tHJ4YnFFC" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></td><td><iframe src="https://giphy.com/embed/ZRNw5cKiqj2vK" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></td>
+> <td><iframe src="https://giphy.com/embed/l1J9IIz6tHJ4YnFFC" width="600" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></td><td><iframe src="https://giphy.com/embed/ZRNw5cKiqj2vK" width="600" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></td>
 > </tr>
 > </table>
 
