@@ -12,12 +12,18 @@ Finally, we also include a fifth term that we noticed during the analysis of the
 In general, we can see that the UN is always some years behind the WB in terms of including new concepts in their reports. The WB has the lead in the development determinant analysis. 
 
 
+*It is important to note in the graphs below that they are not exactly to scale for each international organization. Notice that the values on the y-axis differ between graphs. However, as we are looking for the relative frequency of a term within an organization's report, we particularly look for the the trend - and, in particular, the years - when these terms began to figure more prominently in the organizations' reports. 
+
+
+
 # Trade
-International trade has shaped economic performance and wealth of the world. 
-Even if a wealthier world does not necessarily means more equity or a better quality of life for everybody, 
-it is the first condition before thinking on redistribution issues. 
+International trade has undoubtedly shaped the economic performance and wealth of the world. 
+
+Even if a wealthier world does not necessarily means more equity or a better quality of life for everybody, it is the first condition before thinking on redistribution issues. 
+
 According to the graphs presented below, frequency of term "trade" moved along with economic cycles of the second half of the XXth century.
 For the UN, it reached a pick in the reports during the second wave of globalization, between 1960 and 1966, during the Bretton Woods order. 
+
 It is important to notice that during this period, even if there were serious controls to capital movements, GDPs' of industrialized 
 countries grew massively due to increases in international trade. 
 For the WB, it reached its' highest peak during the third wave of globalization between 1980 and 1995. This period is characterized by 
@@ -47,17 +53,13 @@ The frequency of the word "Poverty" over time seems to prove us right, because f
 
 It was exactly the year 2000 when the United Nations launched its [Millenium Development Goals](http://www.un.org/millenniumgoals/) and indeed began to focus on development and by adopted the primary goal of [eradicating extreme poverty](http://www.un.org/millenniumgoals/poverty.shtml) and hunger. 
 
-     - The target of reducing extreme poverty rates by half was met five years ahead of the 2015 deadline.
-     - More than 1 billion people have been lifted out of extreme poverty since 1990.
-     - In 1990, nearly half of the population in the developing regions lived on less than $1.25 a day. This rate dropped to 14 per cent in 2015.
-At the global level more than 800 million people are still living in extreme poverty.
+- The target of reducing extreme poverty rates by half was met five years ahead of the 2015 deadline.
+- More than 1 billion people have been lifted out of extreme poverty since 1990.
+- In 1990, nearly half of the population in the developing regions lived on less than $1.25 a day. This rate dropped to 14 per cent in 2015.
 
 
 
-
-
-
-These which goals, which were initally targeted to be achieved by the year 2015, maintained their foremeost position in the Sustainable Development Goals that replaced the MDG's in 2015. 
+These which goals, which were initally targeted to be achieved by the year 2015, maintained their foremeost position in the Sustainable Development Goals that replaced the MDG's in 2015. Yet despite these ambitious goals, both in the orginal MDGs and the later SGDs, at the global level today, more than 800 million people are still living in extreme poverty.
 
 
 
@@ -82,17 +84,23 @@ Nevertheless, in both cases, it is more frequent during the last 30 years of the
 
 
 # **Climate**
-As mentioned before, not only were *social* issues were important during the third wave of globalization, but the more holistic view of development in general led to the rise of other important global isseus, such as climate, to rise to the fore as well.
+As mentioned before, not only were *social* issues were important during the third wave of globalization, but the arrival towards a more holistic view of development in general led to the increasing attention towards of other pressing global isseus, such as climate.
 
-proving that a general perspective shift occurred during the second half of the 20th century for the WB and the UN  in terms of public policy, priorities and development strategies. 
+This further proves the deep generational shift of perspective that occurred during the second half of the 20th century for the World Bank and the United Nations in terms of public policy, priorities and development strategies. 
 
-<iframe src="https://giphy.com/embed/l1J9IIz6tHJ4YnFFC" width="600" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></td><td>
-
-
-
-<iframe src="https://giphy.com/embed/ZRNw5cKiqj2vK" width="600" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></td>
+<iframe src="https://giphy.com/embed/l1J9IIz6tHJ4YnFFC" width="600" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 
+
+<iframe src="https://giphy.com/embed/ZRNw5cKiqj2vK" width="600" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+In 2000, the United Nations set out the following goals regarding climate change and ensuring [environmental sustainability](http://www.un.org/millenniumgoals/environ.shtml): 
+- Integrate the principles of sustainable development into country policies and programmes and reverse the loss of environmental resources
+- Reduce biodiversity loss, achieving, by 2010, a significant reduction in the rate of loss
+- Halve, by 2015, the proportion of the population without sustainable access to safe drinking water and basic sanitation
+- Achieve, by 2020, a significant improvement in the lives of at least 100 million slum dwellers
+
+- ** Notice that these goals themselves do not all immediately appear to be directly related to the environment and climate change itself. This is one of the reasons why the Millenium Development Goals underwent a thorough revision to clarify each one their aims and categorize them more appropriately.   
 
 However, discussion about climate is strictly related to industrialization policies, trade, natural ressources and big scale industry. So the rise of this new topic is the rise of the discussin about the consequences of policies related to development, wealth and trade that we had during the XXth century. 
 
