@@ -4,7 +4,7 @@
 
 We want to find which countries are talked about most frequently in the reports so that we can know which countries receive the most attention or play the greatest role in these organizations. This can help us identify key world players, developing areas, and possibly even relationships between them (to be discussed more on our next page on international relations). 
 
-Here, we run an epic epoch on Cortext to analyze the most frequently occuring country names in the United Nations and World Bank reports over time.  
+Here, we run an [Epic Epoch](https://docs.cortext.net/epic-epoch/) on Cortext to analyze the most frequently occuring country names in the United Nations and World Bank reports over time.  
 
 First, we run a  [Name Entity Recognizer](https://docs.cortext.net/named-entity-recognizer/) on the corpus to extract the most frequently occuring terms. We then "clean" the list by standardizing the country names to avoid double counting when they refer the same country (i.e. The United States, the US, the U.S. all become different recognizable forms of the "United States"). 
 
@@ -15,7 +15,7 @@ Here is our "clean" list of country names that we will use:
 > <iframe src="https://docs.google.com/a/sciencespo.fr/spreadsheets/d/1tF_U7ZMbhaeNWkYaYExDcN3MQUNGQczto7o-nxAzUkw/edit?usp=sharing" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="800" height="800" allowfullscreen></iframe>
 
 
-Once we have our "clean" list of country names, we run an [Epic Epoch](https://docs.cortext.net/epic-epoch/) to see how individual countries have figured in the globalization's discourse over time. 
+Once we have our "clean" list of country names, we run an Epic Epoch to see how individual countries have figured in the globalization's discourse over time. 
 
 
 <iframe src="https://documents.cortext.net/3afd/3afd13b6f13d9e812a35205d0a3d6e84/55850/bumpy.html" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1000" height="1000" allowfullscreen></iframe>
