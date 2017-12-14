@@ -30,7 +30,7 @@ It is interesting to note that the edge between Health Care and Federal Republic
 
 It is also to be noted that the cluster “Loans” is connected to developing countries through a single node, that is, Exchange Rates (See Figure below). 
 
-![wb2]({{ site.url }}/paradigmsofglobalization/assets/images/2.PNG)
+> ![wb2]({{ site.url }}/paradigmsofglobalization/assets/images/2.PNG)
 
 This is an important link as it might be telling us about the terms of the loans and other financial help that is extended to developing countries by the World Bank. It seems that the terms of these loans are dependent upon the balance of payments of the countries, which is quite logical in the real world since the lenders do always ensure the re-payment capacities of the borrowers.  The node Exchange Rates is connected to Interest Rates, credit risk, risk management etc which indeed point to the fact that the country’s exchange rate indirectly help in determining the terms of the financial help that is extended. 
  
