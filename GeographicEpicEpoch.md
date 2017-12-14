@@ -15,7 +15,7 @@ Here is our "clean" list of country names that we will use:
 > <iframe src="https://docs.google.com/a/sciencespo.fr/spreadsheets/d/1tF_U7ZMbhaeNWkYaYExDcN3MQUNGQczto7o-nxAzUkw/edit?usp=sharing" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="800" height="800" allowfullscreen></iframe>
 
 
-Once we have our "clean" list of country names, we run an Epic Epoch to see how individual countries have figured in the globalization's discourse over time. 
+Once we have our "clean" list of country names, we run an [Epic Epoch](https://docs.cortext.net/epic-epoch/) to see how individual countries have figured in the globalization's discourse over time. 
 
 
 <iframe src="https://documents.cortext.net/3afd/3afd13b6f13d9e812a35205d0a3d6e84/55850/bumpy.html" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1000" height="1000" allowfullscreen></iframe>
