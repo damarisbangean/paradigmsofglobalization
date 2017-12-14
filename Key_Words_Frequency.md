@@ -60,7 +60,10 @@ Nevertheless, in both cases, it is more frequent during the last 30 years of the
 
 
 # **Climate**
-As mentioned before, not only social issues were more important during the second wave of globalization, but others also such as climate, proving that a general perspective shift occurred during the second half of the XXth century for the WB and the UN  in terms of public policy, priorities and development strategies. 
+As mentioned before, not only were social issues were important during the third wave of globalization, but others also such as climate, proving that a general perspective shift occurred during the second half of the XXth century for the WB and the UN  in terms of public policy, priorities and development strategies. 
+
+
+<iframe src="https://giphy.com/embed/l1J9IIz6tHJ4YnFFC" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/earthjustice-trees-l1J9IIz6tHJ4YnFFC">via GIPHY</a></p>
 
 However, discussion about climate is strictly related to industrialization policies, trade, natural ressources and big scale industry. So the rise of this new topic is the rise of the discussin about the consequences of policies related to development, wealth and trade that we had during the XXth century. 
 
@@ -70,7 +73,6 @@ However, discussion about climate is strictly related to industrialization polic
 ![tags]({{ site.url }}/paradigmsofglobalization/assets/images/Climate WB.png)
 
 
-<iframe src="https://giphy.com/embed/l1J9IIz6tHJ4YnFFC" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/earthjustice-trees-l1J9IIz6tHJ4YnFFC">via GIPHY</a></p>
 
 
 
