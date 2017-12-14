@@ -115,8 +115,6 @@ This further proves the deep generational shift of perspective that occurred dur
 
 
 
-<iframe src="https://giphy.com/embed/ZRNw5cKiqj2vK" width="600" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-
 In 2000, the United Nations set out the following goals regarding climate change and ensuring [environmental sustainability](http://www.un.org/millenniumgoals/environ.shtml): 
 - Integrate the principles of sustainable development into country policies and programmes and reverse the loss of environmental resources
 - Reduce biodiversity loss, achieving, by 2010, a significant reduction in the rate of loss
@@ -125,7 +123,19 @@ In 2000, the United Nations set out the following goals regarding climate change
 
 - ** Notice that these goals themselves do not all immediately appear to be directly related to the environment and climate change itself. This is one of the reasons why the Millenium Development Goals underwent a thorough revision to clarify each one their aims and categorize them more appropriately.**   
 
-However, discussion about climate is strictly related to industrialization policies, trade, natural ressources and big scale industry. So the rise of this new topic is the rise of the discussin about the consequences of policies related to development, wealth and trade that we had during the XXth century. 
+Thus, the new SDG goal since 2015 regarding climate change is simply: 
+- Take urgent action to combat climate change and its impacts
+
+
+<iframe src="https://giphy.com/embed/ZRNw5cKiqj2vK" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GiveAGIF-giveagif-ZRNw5cKiqj2vK">via GIPHY</a></p>
+
+
+The United Nations has [13 goals](http://www.un.org/sustainabledevelopment/climate-change-2/) towards achieving this extremely ambitious and ardous broader goal. 
+
+Meanwhile, it does so by **"Acknowledging that the United Nations Framework Convention on Climate Change is the primary international, intergovernmental forum for negotiating the global response to climate change."** 
+
+Morevoer, the discussion about climate is not only strictly related to industrialization policies, trade, natural resources and big scale industry, because climate change captures is impacted by so more than just "pollution effects." Moreover the approach taken the United Nations in giving rise of this new topic is one that particularly focuses on the consequences of economic and (weak) environmental policies related to development. 
+
 
 ![tags]({{ site.url }}/paradigmsofglobalization/assets/images/Climate UN.png)
 
