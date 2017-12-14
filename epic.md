@@ -17,7 +17,7 @@ Similar to our demography analysis, the we ran the epic epoch analysis for the d
 
 The UN was founded following the Second World War, in 1945 with 50 nations with the aim of maintaining international peace and security after the world war. From this epic epoch analysis we can see that terms such as **"war"** which was frequently used in the 1950s faded out by the 1960s. 
 
-In January 1961, the United Nations resolved that the decade of the 1960s would be the decade of development. Thus, the organisation expanded its motto towards securing both international peace and prosperity. Terms words like **"industrialisation"**, **"exports"** and **"investment"** testify that the organisation shifted its focus towards acheieving development through industrialisation.
+In January 1961, the United Nations resolved that the decade of the 1960s would be the decade of development. Thus, the organisation expanded its motto towards securing both international peace and prosperity. Terms words like **"industrialisation"**, **"exports"** and **"investment"** testify that the organisation shifted its focus towards achieving development through industrialisation.
 
 In the third wave of globalisation there is once again a change in the focus of the United Nations towards a more socioeconomic approach and terms such as **"health"**, **"development"** and **poverty** were frequently used. 
 
