@@ -1,5 +1,7 @@
 # Network Mapping: United Nations 
 
+After parsing the data set successfully, term extraction was conducted to get a list of terms from the data set. The list generated has “noun phrases” as the grammatical criteria. Finally, the network map was obtained using the [Network Mapping](https://docs.cortext.net/analysis-mapping-heterogeneous-networks/) script of Cortext. 
+
 # There are five main nodes:
 1. Industrialization and production
 2. Globalization and risk
