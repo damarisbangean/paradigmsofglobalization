@@ -28,7 +28,7 @@ From this geopolitical epic epoch analysis we can also see the evolution of worl
 - Japanese asset price bubble between 1986 to 1991
 - Fall of the Soviet of Soviet Union in 1991
 
-  <iframe src="http://www.nytimes.com/1991/12/26/world/end-of-the-soviet-union-the-soviet-state-born-of-a-dream-dies.html?pagewanted=all&pagewanted=print" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="750" height="750" allowfullscreen></iframe>
+  <iframe src="http://www.nytimes.com/1991/12/26/world/end-of-the-soviet-union-the-soviet-state-born-of-a-dream-dies.html?pagewanted=all&pagewanted=print" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="500" height="500" allowfullscreen></iframe>
 
 
 - Martial Law in Poland in 1980
