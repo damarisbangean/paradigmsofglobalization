@@ -12,6 +12,9 @@ The map obtained is ranging over the period 1946-2012. There are a total of 9 cl
 
 In our analysis, we focused on the biggest cluster out of the 9, which is the Blue cluster called Developing Countries. As expected the cluster is overlapping with the Red Cluster (Poverty Reduction). We can see that the blue cluster is very evidently consisting of terms which fall under the ambit of “developing countries” – terms like – industrial countries, Latin America, South Asia and at the same time terms like – terms of trade, balance of payments, GDP growth, which reflect the indicators that these countries are judged by. We see a lot of links between the red and the blue cluster, a lot of which are through the term low-income countries, suggesting that the this node is a major link between the two clusters. 
 
+![cartoon]({{ site.url }}/paradigmsofglobalization/assets/Cartoon-on-misguied-structural-reform-programs-of-IMF-and-World-Bank-and-the-impact-of.png)
+A cartoon on misguied structural reform programs of IMF and World Bank and the impact of aid by famous cartoonist Godfrey Mwapembwa suggesting how there was need to focus on poverty reduction.
+
 ![wb4]({{ site.url }}/paradigmsofglobalization/assets/images/4.PNG)
 
 In figure above, we can see that low income countries connects East Asia, Latin America, developing countries, GDP growth, South Asia etc to debt relief, civil society, poor people, poverty reduction etc. The node World Bank has a direct edge to Developing countries which is suggestive of the fact that the World Bank does lay focus on the developing countries and their issues. The node South Asia has connections to poor people, Low-income countries, poverty reduction in the red cluster which again tells us something about the area of focus of World Bank when it comes to South Asia.
@@ -29,7 +32,7 @@ It is also to be noted that the cluster “Loans” is connected to developing c
 ![wb2]({{ site.url }}/paradigmsofglobalization/assets/images/2.PNG)
 
 This is an important link as it might be telling us about the terms of the loans and other financial help that is extended to developing countries by the World Bank. It seems that the terms of these loans are dependent upon the balance of payments of the countries, which is quite logical in the real world since the lenders do always ensure the re-payment capacities of the borrowers.  The node Exchange Rates is connected to Interest Rates, credit risk, risk management etc which indeed point to the fact that the country’s exchange rate indirectly help in determining the terms of the financial help that is extended. 
-
+ 
 The network Map produced is highly insightful if one wants to understand the subtle links between the focus of the World Bank. It is interesting to see how some the nodes are small, but they do serve as connectors. The analysis of a corpus becomes much more interesting when we run a network mapping script. Network mapping is an essential tool if one wants to discover linkages and dig deeper into the corpus. 
 
 [Home](index.md) - [Previous Page](UnitedNationsNetworkMapping.md) - [Next Page](GeographicEpicEpoch.md)
