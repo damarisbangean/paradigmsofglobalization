@@ -5,7 +5,7 @@ description: A closer look at the UN & WB
 menu: [
 {'name': 'Home', 'pagename': 'index'}, 
 {'name': 'Key Terms Frequency', 'pagename': 'Key_Words_Frequency'}, 
-{'name': 'Demography : United Nations and World Bank', 'pagename': 'Demography'}, 
+{'name': 'Demography : United Nations & World Bank', 'pagename': 'Demography'}, 
 {'name': 'Epic Epoch: United Nations & World Bank', 'pagename': 'epic'}, 
 {'name': 'United Nations Network Map Insights', 'pagename': 'UnitedNationsNetworkMapping'},
 {'name': 'World Bank Network Map Insights', 'pagename': 'worldbankdnetworkmap'}, 
