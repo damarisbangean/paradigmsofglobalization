@@ -16,7 +16,7 @@ In our analysis, we focused on the biggest cluster out of the 9, which is the Bl
 
 A cartoon on misguied structural reform programs of IMF and World Bank and the impact of aid by famous cartoonist Godfrey Mwapembwa suggesting how there was need to focus on poverty reduction.
 
-![wb4]({{ site.url }}/paradigmsofglobalization/assets/images/4.PNG)
+> ![wb4]({{ site.url }}/paradigmsofglobalization/assets/images/4.PNG)
 
 In figure above, we can see that low income countries connects East Asia, Latin America, developing countries, GDP growth, South Asia etc to debt relief, civil society, poor people, poverty reduction etc. The node World Bank has a direct edge to Developing countries which is suggestive of the fact that the World Bank does lay focus on the developing countries and their issues. The node South Asia has connections to poor people, Low-income countries, poverty reduction in the red cluster which again tells us something about the area of focus of World Bank when it comes to South Asia.
 
