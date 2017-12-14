@@ -51,4 +51,4 @@ Unsurprisingly, the US figures most prominently throughout the reports. But, sma
 - Bangladesh 2004 tsunami
 - [Start of Arab spring December 2010](https://www.npr.org/2011/12/17/143897126/the-arab-spring-a-year-of-revolution)
 
-
+> [Home](index.md) - [Previous Page](worldbankdnetworkmap.md) - [Next Page](internationalrelations.md)
