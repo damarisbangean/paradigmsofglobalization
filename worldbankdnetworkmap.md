@@ -12,7 +12,7 @@ The map obtained is ranging over the period 1946-2012. There are a total of 9 cl
 
 In our analysis, we focused on the biggest cluster out of the 9, which is the Blue cluster called Developing Countries. As expected the cluster is overlapping with the Red Cluster (Poverty Reduction). We can see that the blue cluster is very evidently consisting of terms which fall under the ambit of “developing countries” – terms like – industrial countries, Latin America, South Asia and at the same time terms like – terms of trade, balance of payments, GDP growth, which reflect the indicators that these countries are judged by. We see a lot of links between the red and the blue cluster, a lot of which are through the term low-income countries, suggesting that the this node is a major link between the two clusters. 
 
-![cartoon]({{ site.url }}/paradigmsofglobalization/assets/images/CartoonWB.png)
+> ![cartoon]({{ site.url }}/paradigmsofglobalization/assets/images/CartoonWB.png)
 
 A cartoon on misguied structural reform programs of IMF and World Bank and the impact of aid by famous cartoonist Godfrey Mwapembwa suggesting how there was need to focus on poverty reduction.
 
