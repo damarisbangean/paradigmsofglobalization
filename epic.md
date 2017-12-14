@@ -2,7 +2,7 @@
 
 ## Methodology
 
-The Epic Epoch is a simple script for tracking dramatic changes in the composition of a field over time on CorText.
+The [Epic Epoch](https://docs.cortext.net/epic-epoch/) is a simple script for tracking dramatic changes in the composition of a field over time on CorText.
 It acts in three steps:
 
 1. The N most frequently occurring entities are selected at each time period,
