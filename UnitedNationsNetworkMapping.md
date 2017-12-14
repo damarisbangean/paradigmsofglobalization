@@ -25,3 +25,5 @@ What it is most important is the close relation between Globalization and risk; 
 
 ![tags]({{ site.url }}/paradigmsofglobalization/assets/images/Globalization and risk NM UN.png)
 
+
+> [Home](index.md) - [Previous Page](epic.md) - [Next Page](worldbankdnetworkmap.md)
