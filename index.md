@@ -68,14 +68,17 @@ Below you can find out more about our research design. You can read our research
 
 ## **Tests & Analysis**
 
+- Analysis of Key Term Frequency
 - Demography
 - Epic Epoch
 - Network Mapping
+- Geographic Analysis
+- Analysis of International Relations
 
 
 ## **Corpus** 
 
-We have worked with Annual Reports by the World Bank (1946-2012) and Annual Reports by the United Nations (1945-2011). Unfortunately, some reports by the UN are missing for certain years. You can read more about this in our **[Limitations](Limitations.md) **. We had to convert the UN reports from (.pdf) into (.txt) files in order to work with them in CorText.  Two details were important at this point: some reports were divided into several documents and had to be merged. Names of the files should be simple, in order to allow cortex to identify and associate terms with specific years. 
+We have worked with Annual Reports by the World Bank (1946-2012) and Annual Reports by the United Nations (1945-2011). Unfortunately, some reports by the UN are missing for certain years. You can read more about this in our **[Limitations](Limitations.md)**. We had to convert the UN reports from (.pdf) into (.txt) files in order to work with them in CorText.  Two details were important at this point: some reports were divided into several documents and had to be merged. Names of the files should be simple, in order to allow cortex to identify and associate terms with specific years. 
 
 The World Bank Corpus was much easier to acquire and work with as compared to the UN corpus. We were able to find Annual Reports from  1946 to 2012. The World Bank data is more uniform in terms of the format of the reports (the fact that they have been called ‘Annual Reports’ right from the beginning).
 
