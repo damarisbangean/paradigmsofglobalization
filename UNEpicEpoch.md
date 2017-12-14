@@ -11,7 +11,9 @@ It acts in three steps:
 
 Presented below is the epic epoch analysis for the UN corpus. 
 
-Similar to our demography analysis, the we ran the epic epoch analysis for the data that was available between the years 1947 and 2011. The dip between 1990-2000, is due to missing data for that period.
+Similar to our demography analysis, the we ran the epic epoch analysis for the data that was available between the years 1947 and 2011. 
+
+The dip between 1990-2000, is due to missing data for that period.
 
 ![af](https://github.com/damarisbangean/paradigmsofglobalization/blob/master/assets/images/epic.epoch.%20UN.png)
 
@@ -21,15 +23,15 @@ The UN was founded following the Second World War, in 1945 with 50 nations with 
 
 Other words like **"industrialisation"**, **"exports"** and **"investment"** were more prominent in the second wave of globalization and faded out by the third wave. We can also see that **trade** and **investment** were terms that were frequently used in the annual reports of the 1960s. 
 
-In the third wave of globalisation there is a shift in the focus of the UN towards a more socioeconomic approach such as **"health"**, **"development"** and **"climate"**, where the focus shifted towards international co-operation in solving international problems of an economic, social, cultural, or humanitarian character. 
-
-By looking at these terms, thus we can see the shift in the focus of the world over time. 
+In the third wave of globalisation there is a change in the focus of the United Nations towards a more socioeconomic approach and terms such as **"health"**, **"development"**, **energy** and **"climate"** were frequently used. From a purely economic perspective of development the United Nations shifted its focus to also solving international problems of an economic, social, cultural, or humanitarian character. 
+ 
 
 ### **United Nations: Geographic Analysis**
 
 <iframe src="https://documents.cortext.net/3afd/3afd13b6f13d9e812a35205d0a3d6e84/55850/bumpy.html" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1000" height="1000" allowfullscreen></iframe>
 
 From this geopolitical epic epoch analysis we can also see the evolution of world events such as:
+
 - India-China Nathu La and Cho La clash in the year 1967
 - Japanese asset price bubble between 1986
 - 1991 fall of the Soviet of Soviet Union in 1991. 
