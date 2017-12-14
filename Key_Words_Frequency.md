@@ -36,16 +36,17 @@ but for the UN it was not until the 2000.
 
 ![tags]({{ site.url }}/paradigmsofglobalization/assets/images/Poverty WB.png)
 ![tags]({{ site.url }}/paradigmsofglobalization/assets/images/Poverty UN.png)
-![UNpov] (https://github.com/damarisbangean/paradigmsofglobalization/blob/master/Poverty%20UN.png)
+
 
 
 # Health
 The term "health" is another example of our hypothesis of the social issues prevalence during the third wave of globalization. 
 However, in this case, the WB started to mention it a lot during the 70s, way before the UN, where it reached its' highest peak at the 2000.
 Nevertheless, in both cases, it is more frequent during the last 30 years of the XXth century, providing a reason that supports our hypothesis.
-![WBHealth](https://github.com/damarisbangean/paradigmsofglobalization/blob/master/Health%20WB.png)
 
-![UNhealth](https://github.com/damarisbangean/paradigmsofglobalization/blob/master/Health%20UN.png)
+![tags]({{ site.url }}/paradigmsofglobalization/assets/images/Health UN.png)
+
+![tags]({{ site.url }}/paradigmsofglobalization/assets/images/Health WB.png)
 
 
 # Climate
@@ -53,7 +54,8 @@ Not only social issues were more important during the second wave of globalizati
 general perspective shift occurred during in teh WB and the UN the second half of the XXth century in terms of public policy, priorities
 and development strategies. 
 
-![WBClimate](https://github.com/damarisbangean/paradigmsofglobalization/blob/master/Climate%20WB.png)
+![tags]({{ site.url }}/paradigmsofglobalization/assets/images/Climate UN.png)
 
-![UNClimate](https://github.com/damarisbangean/paradigmsofglobalization/blob/master/Climate%20UN.png)
-paradigmsofglobalization/Climate UN.png
+![tags]({{ site.url }}/paradigmsofglobalization/assets/images/Climate WB.png)
+
+
