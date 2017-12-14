@@ -47,8 +47,6 @@ the concept "private sector" reached its' highest peak during the 90s and has de
 According to our hypothesis, international agencies such as the World Bank and the UN had a more purely "economic approach" during 
 the first half of the 20th century. But in the second half, they indeed became more focused on the economic *and social* well-being of individuals around the world.
 
-<iframe src="https://giphy.com/embed/QW7j9QAa8imJi" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GiveAGIF-giveagif-QW7j9QAa8imJi">via GIPHY</a></p>
-
 The frequency of the word "Poverty" over time seems to prove us right, because for both the World Bank and the United Nations, it begins to be very important during the third wave of globalization. However, it is important to notice that it started to be more present in the World Bank annual reports during the 80's, but for the UN it was not until the year 2000. 
 
 It was exactly the year 2000 when the United Nations launched its [Millenium Development Goals](http://www.un.org/millenniumgoals/) and indeed began to focus on development and by adopted the primary goal of [eradicating extreme poverty](http://www.un.org/millenniumgoals/poverty.shtml) and hunger. 
@@ -57,15 +55,17 @@ It was exactly the year 2000 when the United Nations launched its [Millenium Dev
 - More than 1 billion people have been lifted out of extreme poverty since 1990.
 - In 1990, nearly half of the population in the developing regions lived on less than $1.25 a day. This rate dropped to 14 per cent in 2015.
 
+<iframe src="https://giphy.com/embed/QW7j9QAa8imJi" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GiveAGIF-giveagif-QW7j9QAa8imJi">via GIPHY</a></p>
+
 
 
 These which goals, which were initally targeted to be achieved by the year 2015, maintained their foremeost position in the Sustainable Development Goals that replaced the MDG's in 2015. Yet despite these ambitious goals, both in the orginal MDGs and the later SGDs, at the global level today, more than 800 million people are still living in extreme poverty.
 
 
 
-
-
 ![tags]({{ site.url }}/paradigmsofglobalization/assets/images/Poverty WB.png)
+
+
 ![tags]({{ site.url }}/paradigmsofglobalization/assets/images/Poverty UN.png)
 
 
@@ -74,14 +74,23 @@ These which goals, which were initally targeted to be achieved by the year 2015,
 The term "health" is another example of our hypothesis of the rising prevalence of social issues during the third wave of globalization. 
 However, in this case, the World Bank first started to mention it a lot during the 1970's, three decades before the UN, where it reached its highest peak only the year 2000.
 
-<iframe src="https://giphy.com/embed/BqxrLook9LQYg" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GiveAGIF-giveagif-BqxrLook9LQYg">via GIPHY</a></p>
-
 Nevertheless, in both cases, it is more frequent during the last 30 years of the 20th century, providing a reason that supports our hypothesis.
+
+
 
 ![tags]({{ site.url }}/paradigmsofglobalization/assets/images/Health UN.png)
 
 ![tags]({{ site.url }}/paradigmsofglobalization/assets/images/Health WB.png)
 
+"Health" simply as itself as a term proves to be quite problematic to analyze by its mere frequency in the texts, as "health" actually comprises a lot of different aspects and associated terms that *relate to health* but do not **explicity** mention the word health. 
+This is best exemplified by how the United Nations' initial 2000 Millenium Developments Goals were framed: 
+
+- **Goal 4:** [Reduce child mortality](http://www.un.org/millenniumgoals/childhealth.shtml)
+- **Goal 5:** [Improve maternal health](http://www.un.org/millenniumgoals/maternal.shtml)
+- **Goal 6:** [Combat HIV/AIDS, malaria and other diseases](http://www.un.org/millenniumgoals/aids.shtml)
+
+
+<iframe src="https://giphy.com/embed/BqxrLook9LQYg" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GiveAGIF-giveagif-BqxrLook9LQYg">via GIPHY</a></p>
 
 # **Climate**
 As mentioned before, not only were *social* issues were important during the third wave of globalization, but the arrival towards a more holistic view of development in general led to the increasing attention towards of other pressing global isseus, such as climate.
@@ -100,7 +109,7 @@ In 2000, the United Nations set out the following goals regarding climate change
 - Halve, by 2015, the proportion of the population without sustainable access to safe drinking water and basic sanitation
 - Achieve, by 2020, a significant improvement in the lives of at least 100 million slum dwellers
 
-- ** Notice that these goals themselves do not all immediately appear to be directly related to the environment and climate change itself. This is one of the reasons why the Millenium Development Goals underwent a thorough revision to clarify each one their aims and categorize them more appropriately.   
+- ** Notice that these goals themselves do not all immediately appear to be directly related to the environment and climate change itself. This is one of the reasons why the Millenium Development Goals underwent a thorough revision to clarify each one their aims and categorize them more appropriately.**   
 
 However, discussion about climate is strictly related to industrialization policies, trade, natural ressources and big scale industry. So the rise of this new topic is the rise of the discussin about the consequences of policies related to development, wealth and trade that we had during the XXth century. 
 
