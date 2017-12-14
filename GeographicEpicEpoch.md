@@ -26,7 +26,7 @@ From this geopolitical epic epoch analysis we can also see the evolution of worl
 - [India-China Nathu La and Cho La clash in 1967](https://en.wikipedia.org/wiki/Nathu_La_and_Cho_La_clashes)
 - [Arab-Israel 6 day war in 1967](http://www.bbc.com/news/world-middle-east-39960461)
 - [Japanese asset price bubble between 1986 to 1991](http://www.thebubblebubble.com/japan-bubble/)
-- Fall of the Soviet of Soviet Union in 1991
+- [Fall of the Soviet of Soviet Union in 1991](https://history.state.gov/milestones/1989-1992/collapse-soviet-union)
 
 ![tags]({{ site.url }}/paradigmsofglobalization/assets/images/Soviet_end.jpg)
 
