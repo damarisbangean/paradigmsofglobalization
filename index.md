@@ -6,12 +6,6 @@ Globalization manifested itself very differently around the world and not every 
 
 Still, globalization remains an ambiguous term and its naming and manifestation may have changed during the waves of globalization the world has experienced so far. In all of this, **international organisations** shape and drive globalization because they are global rule and standard setters and are deeply involved with supporting sustainable development and building a more prosperous world for everybody. Following World War II, two of the major international organizations that essentially embody the process of globalization came into being: the **[World Bank (1944)](http://www.worldbank.org/en/who-we-are)** and the **[United Nations (1945)](http://www.un.org/en/about-un/index.html)**.
 
-![tags]({{ site.url }}/paradigmsofglobalization/assets/images/wblogo.jpg)
-
-
-
-
-![tags]({{ site.url }}/paradigmsofglobalization/assets/images/unlogo.png)
 
 
 
@@ -21,8 +15,11 @@ Please feel free to browse this website, discover our results on the following p
 
 On this homepage you are able to read more about our methodology, our sources and our approach. So, keep reading if you are interested in these details of our research project. Otherwise, you can choose a different page and dive right into our results and interpretation. 
 
-But, let's have a look at what our two international organizations do and how they differ first!
+But, let's have a look at what these two international organizations do and how they differ first!
 
+
+
+![tags]({{ site.url }}/paradigmsofglobalization/assets/images/wblogo.jpg)
 
 
 ## **World Bank**
@@ -32,6 +29,13 @@ The [World Bank](http://www.worldbank.org/) was created in 1944 as one of the **
 If you prefer to listen to an explanation: Here is a short video of the **World Bank Group President Jim Yong Kim** talking about the three pillars that will drive momentum toward ending extreme poverty by 2030 and boosting shared prosperity.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K21VDmQo8VI" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+![tags]({{ site.url }}/paradigmsofglobalization/assets/images/unlogo.png)
+
+
 
 ## **United Nations** 
 
@@ -71,7 +75,7 @@ Below you can find out more about our research design. You can read our research
 
 ## **Corpus** 
 
-We have worked with Annual Reports by the World Bank (1946-2012) and Annual Reports by the United Nations (1945-2011). Unfortunately, some reports by the UN are missing for certain years. You can read more about this in our **Limitations**. We had to convert the UN reports from (.pdf) into (.txt) files in order to work with them in CorText.  Two details were important at this point: some reports were divided into several documents and had to be merged. Names of the files should be simple, in order to allow cortex to identify and associate terms with specific years. 
+We have worked with Annual Reports by the World Bank (1946-2012) and Annual Reports by the United Nations (1945-2011). Unfortunately, some reports by the UN are missing for certain years. You can read more about this in our **[Limitations](Limitations.md) **. We had to convert the UN reports from (.pdf) into (.txt) files in order to work with them in CorText.  Two details were important at this point: some reports were divided into several documents and had to be merged. Names of the files should be simple, in order to allow cortex to identify and associate terms with specific years. 
 
 The World Bank Corpus was much easier to acquire and work with as compared to the UN corpus. We were able to find Annual Reports from  1946 to 2012. The World Bank data is more uniform in terms of the format of the reports (the fact that they have been called ‘Annual Reports’ right from the beginning).
 
