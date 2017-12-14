@@ -31,7 +31,7 @@ From this geopolitical epic epoch analysis we can also see the evolution of worl
 ![tags]({{ site.url }}/paradigmsofglobalization/assets/images/Soviet_end.jpg)
 
 - [Martial Law in Poland in 1980](https://en.wikipedia.org/wiki/Martial_law_in_Poland)
-- The Global Financial Crisis in 2007-2008
+- [The Global Financial Crisis in 2007-2008](https://www.canstar.com.au/home-loans/global-financial-crisis/)
 
 
 ### **World Bank: Geographic Analysis**
@@ -42,7 +42,7 @@ Here are the most commonly occuring countries in the World Bank's World Economic
 
 
 Unsurprisingly, the US figures most prominently throughout the reports. But, smaller countries also rise and fall over time, as evidenced by major world events.  
-- Indonesian mass killings of 1965–1966
+- [Indonesian mass killings of 1965–1966](https://en.wikipedia.org/wiki/Indonesian_mass_killings_of_1965%E2%80%931966)
 - Japan’s rise in 1990 at the start of its financial crisis
 - Poland’s 1989 revolution against Communism
 - Bosnian genocide 1995 
