@@ -43,11 +43,10 @@ Here are the most commonly occuring countries in the World Bank's World Economic
 
 Unsurprisingly, the US figures most prominently throughout the reports. But, smaller countries also rise and fall over time, as evidenced by major world events.  
 - [Indonesian mass killings of 1965–1966](https://en.wikipedia.org/wiki/Indonesian_mass_killings_of_1965%E2%80%931966)
-- Japan’s rise in 1990 at the start of its financial crisis
+- [Japan’s rise in 1990 at the start of its financial crisis](https://en.wikipedia.org/wiki/Japanese_asset_price_bubble)
 - [Poland’s 1989 revolution against Communism](https://en.wikipedia.org/wiki/Revolutions_of_1989)
 - [Bosnian genocide 1995](http://www.history.com/topics/bosnian-genocide) 
-- West bank and Gaza 1993/1995 
-- Bangladesh 2004 tsunami
+- [West bank and Gaza 1993/1995](https://en.wikipedia.org/wiki/Palestinian_territories) 
 - [Start of Arab spring December 2010](https://www.npr.org/2011/12/17/143897126/the-arab-spring-a-year-of-revolution)
 
 > [Home](index.md) - [Previous Page](worldbankdnetworkmap.md) - [Next Page](internationalrelations.md)
