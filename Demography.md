@@ -14,8 +14,6 @@ We offer some insights and analysis but you can use the graphs below to draw you
 ### **United Nations:** Results & Interpretation
 The top terms in our demography are as follows:
 
-![af](https://github.com/damarisbangean/paradigmsofglobalization/blob/master/Screen%20Shot%202017-12-13%20at%2010.39.02%20AM.png)
-
 > <iframe src="https://documents.cortext.net/369d/369db851df253c68696caf623216cbf7/53627/temporal%20evolution/basic_statistics_Terms_100ISIpubdate.html" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1000" height="1000" allowfullscreen></iframe>
 
 From this demography process, we can see that the evolution of terms over 1947 till 2011 shows the change in focus of the UN. The United Nations was founded with the objective of maintaining international peace, and to foster friendly relations among nations. Terms such as **war**, **peace** and **exploitation** were more frequently used in the 1950s. War for instance appeared with a frequency of 1026 in 1947 wheareas by 2011 it declined to a frequency of 1.
