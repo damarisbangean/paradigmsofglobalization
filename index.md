@@ -6,6 +6,11 @@ Globalization manifested itself very differently around the world and not every 
 
 Still, globalization remains an ambiguous term and its naming and manifestation may have changed during the waves of globalization the world has experienced so far. In all of this, **international organisations** shape and drive globalization because they are global rule and standard setters and are deeply involved with supporting sustainable development and building a more prosperous world for everybody. Following World War II, two of the major international organizations that essentially embody the process of globalization came into being: the **World Bank (1944)** and the **United Nations (1945)**.
 
+![tags]({{ site.url }}/paradigmsofglobalization/assets/images/wblogo.jpg)
+
+![tags]({{ site.url }}/paradigmsofglobalization/assets/images/unlogo.png)
+
+
 These two organizations have different missions, different political scopes and a different approach to promoting and shaping globalization. **We want to find out how their approaches differ, how their understanding of globalization and its paradigms has changed over time and where we are now.**
 
 Please feel free to browse this website, discover our results on the following pages and give us some feedback on your experience.
@@ -15,7 +20,7 @@ On this homepage you are able to read more about our methodology, our sources an
 But, let's have a look at what our two international organizations do and how they differ first!
 
 ## **World Bank**
-![tags]({{ site.url }}/paradigmsofglobalization/assets/images/wblogo.jpg)
+
 The World Bank was created in 1944 as one of the **Bretton Woods institutions** together with the International Monetary Fund. It is therefore an international financial institution and provides loans to countries for capital programs and has currently 189 member states. The World Bank comprises the International Bank for Reconstruction and Development (IBRD) and the International Development Association (IDA). Its mission is the **ending of extreme poverty** and building shared prosperity. But, it is also committed to the achieve these goals through the **promotion of foreign direct investment and the liberalization of international trade**.
 
 If you prefer to listen to an explanation: Here is a short video of the **World Bank Group President Jim Yong Kim** talking about the three pillars that will drive momentum toward ending extreme poverty by 2030 and boosting shared prosperity.
@@ -23,7 +28,7 @@ If you prefer to listen to an explanation: Here is a short video of the **World 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K21VDmQo8VI" frameborder="0" allowfullscreen></iframe>
 
 ## **United Nations** 
-![tags]({{ site.url }}/paradigmsofglobalization/assets/images/unlogo.jpg)
+
 
 The United Nations is probably the most well known international organization. They were founded in 1945 as a collective answer to World War II. They currently have 193 member states. The mission and the work of the UN are guided by the purposes and principles contained in its founding Charter. The UN's main goal is maintaining **international peace and security**, but they work in many different fields. They also work towards achieving international co-operation in solving international problems of an economic, social, cultural, or humanitarian character. One part of this international cooperation were the Millennium Development Goals that were replaced by the **Sustainable Development Goals** in 2015. These goals include for example the fight against poverty and hunger. In working towards sustainable development for all countries, the UN is trying to make sure that globalization works for everyone.
 
