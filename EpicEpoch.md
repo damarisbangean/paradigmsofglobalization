@@ -1,8 +1,8 @@
-# Prominent Countries Over Time 
+# Geographic Analysis: Prominent Countries Over Time 
 
 ### **United Nations: Geographic Analysis**
 
-We want to find which countries are talked about most frequently in the reports so that we can know which countries receve the most attention or play the greatest role in these organizations. This can help us identify key world players, developing areas, and possibly even relationships between them (to be discussed more on our next page on international relations). 
+We want to find which countries are talked about most frequently in the reports so that we can know which countries receive the most attention or play the greatest role in these organizations. This can help us identify key world players, developing areas, and possibly even relationships between them (to be discussed more on our next page on international relations). 
 
 Here, we run an epic epoch on Cortext to analyze the most frequently occuring country names in the United Nations and World Bank reports over time.  
 
@@ -27,11 +27,19 @@ From this geopolitical epic epoch analysis we can also see the evolution of worl
 - Arab-Israel 6 day war in 1967
 - Japanese asset price bubble between 1986 to 1991
 - Fall of the Soviet of Soviet Union in 1991
+
+  <iframe src="http://www.nytimes.com/1991/12/26/world/end-of-the-soviet-union-the-soviet-state-born-of-a-dream-dies.html?pagewanted=all&pagewanted=print" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="750" height="750" allowfullscreen></iframe>
+
+
 - Martial Law in Poland in 1980
 - The Global Financial Crisis in 2007-2008
 
 
+
+
+
 ### **World Bank: Geographic Analysis**
+Here are the most commonly occuring countries in the World Bank's World Economic and Social Survey reports from 1946 to 2015 
 
 
 > <iframe src="https://documents.cortext.net/8899/8899fc31ae8511600523066d5bf11037/52804/bumpy.html" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1000" height="1000" allowfullscreen></iframe>
@@ -46,19 +54,6 @@ Unsurprisingly, the US figures most prominently throughout the reports. But, sma
 - Bangladesh 2004 tsunami
 - Start of Arab spring December 2010
 
-> ### *World Bank Epic Epoch* 
-Here are the most commonly occuring countries in the World Bank's World Economic and Social Survey reports from 1946 to 2015 
-
-> <iframe src="https://documents.cortext.net/40f2/40f27a906efa0ca1b3d128f725a439ec/53056/bumpy.html" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1000" height="1000" allowfullscreen></iframe>
-<br>
-### Most prominent countries 
-> Unsurprisingly, the US figures most prominently throughout the reports. But, so do countries when they make headlines as world events: 
-> - Indonesian mass killings of 1965–1966
-> - Japan’s rise in 1990 at the start of its financial crisis
-> - Poland’s 1989 revolution against Communism
-> - Bosnian genocide 1995 
-> - West bank and Gaza 1993/1995 
-> - Bangladesh 2004 tsunami
 
 
 > - Start of Arab spring December 2010
