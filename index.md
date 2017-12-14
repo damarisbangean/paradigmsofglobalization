@@ -70,7 +70,13 @@ Below you can find out more about our research design. You can read our research
 
 ## **Corpus** 
 
-We have worked with Annual Reports by the World Bank (1946-2012) and Annual Reports by the United Nations (1945-2011). Unfortunately, some reports by the UN are missing for certain years. You can read more about this in our **Limitations**. We had to convert the UN reports into txt - files in order to work with them in CorText. Some reports were diviided into several documents and had to be merged. In the end, we worked with 49 UN files and 66 World Bank files.
+We have worked with Annual Reports by the World Bank (1946-2012) and Annual Reports by the United Nations (1945-2011). Unfortunately, some reports by the UN are missing for certain years. You can read more about this in our **Limitations**. We had to convert the UN reports from (.pdf) into (.txt) files in order to work with them in CorText.  Two details were important at this point: some reports were divided into several documents and had to be merged. Names of the files should be simple, in order to allow cortex to identify and associate terms with specific years. 
+
+The World Bank Corpus was much easier to acquire and work with as compared to the UN corpus. We were able to find Annual Reports from  1946 to 2012. The World Bank data is more uniform in terms of the format of the reports (the fact that they have been called ‘Annual Reports’ right from the beginning).
+
+In the end, we worked with 49 UN files and 66 World Bank files.
+
+## From an Initial Terms Extraction to a Proposed Terms List
 
 We analysed the corpus by using a list of key words called terms list. We extracted a terms list from our corpus, but the initial results were unsastifactory and didn't advance our research interest. To address our research questions, we decided to create our own terms list. We developed a terms list based on the UN Sustainable Development Goals.
 
@@ -78,5 +84,6 @@ We analysed the corpus by using a list of key words called terms list. We extrac
 
 
 
-> [Home](index.md) - [Previous Page](internationalrelations.md) - [Next Page](finalpage.md)
+
+> [Home](index.md) - [Next Page](Key_Words_Frequency.md)
 
