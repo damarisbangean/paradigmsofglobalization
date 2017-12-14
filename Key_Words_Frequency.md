@@ -1,11 +1,11 @@
-# Key Terms Frequency 
+# **Key Terms Frequency** 
 
 ### **Comparison between the World Bank and the United Nations**
 
 For this section we chose five words to see in more detail the differences between in the UN and WB globalization approach during the second and the third wave of globalization. From our term list, we chose two words that were representative of both waves. Our hypothesis, is that during the second wave of globalization, international organizations had a more "economic and trade" approach, and during the third wave, social and distributive subjects took the lead in the discussion. 
 
-Second wave terms: "Trade" and "private sector"
-Third wave terms: "Poverty" and "health"
+Second wave terms: "Trade" and "Private Sector"
+Third wave terms: "Poverty" and "Health"
 
 Finally, we also include a fifth term that we noticed during the analysis of the data: a new topic arose as one of the most mentioned in the reports from both organizations "climate". Discussión about global warming, CO2, climate change, sea level and, in general, dangers derived from big scale industry, has become one of the main characters of the conceptualization of development in the latest years. 
 
@@ -32,17 +32,36 @@ may be more related with international trade, since its frequency seems to be mo
 
 # **Private sector**
 As the role of the private sector has become more important during the last three decades, through new managerial approaches, for the WB
-the concept "private sector" reached its' highest peak during the 90s and has decreased since the 2000. Financial crises of the beginning 
-of the XX century may have been a motive for it. For the UN, it reached its' highest peak during the internet crisis of the 2002.
+the concept "private sector" reached its' highest peak during the 90s and has decreased since the 2000. Financial crises of the beginning of the 20th century may have been a motive for it. For the UN, it reached its' highest peak during the internet crisis of the 2002.
+
 ![tags]({{ site.url }}/paradigmsofglobalization/assets/images/Private sector WB.png)
 ![tags]({{ site.url }}/paradigmsofglobalization/assets/images/Private sector UN.png)
 
 # **Poverty**
-According to our hypothesis, international agencies such as the WB and the UN had a more "economical approach" during 
-the first half of the XXth century. But the second half, left more space for social and quality of life issues. 
-The frequency of the word "Poverty" seems to prove us right, because for both, the WB and the UN, it begins to be very important during
-the third wave of globalization. However, it is important to notice that it started to be more present in the WB annual reports during the 80s,
-but for the UN it was not until the 2000.  
+According to our hypothesis, international agencies such as the World Bank and the UN had a more purely "economic approach" during 
+the first half of the 20th century. But in the second half, they indeed became more focused on the economic *and social* well-being of individuals around the world.
+
+<iframe src="https://giphy.com/embed/QW7j9QAa8imJi" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GiveAGIF-giveagif-QW7j9QAa8imJi">via GIPHY</a></p>
+
+The frequency of the word "Poverty" over time seems to prove us right, because for both the World Bank and the United Nations, it begins to be very important during the third wave of globalization. However, it is important to notice that it started to be more present in the World Bank annual reports during the 80's, but for the UN it was not until the year 2000. 
+
+It was exactly the year 2000 when the United Nations launched its [Millenium Development Goals](http://www.un.org/millenniumgoals/) and indeed began to focus on development and by adopted the primary goal of [eradicating extreme poverty](http://www.un.org/millenniumgoals/poverty.shtml) and hunger. 
+
+     - The target of reducing extreme poverty rates by half was met five years ahead of the 2015 deadline.
+     - More than 1 billion people have been lifted out of extreme poverty since 1990.
+     - In 1990, nearly half of the population in the developing regions lived on less than $1.25 a day. This rate dropped to 14 per cent in 2015.
+At the global level more than 800 million people are still living in extreme poverty.
+
+
+
+
+
+
+These which goals, which were initally targeted to be achieved by the year 2015, maintained their foremeost position in the Sustainable Development Goals that replaced the MDG's in 2015. 
+
+
+
+
 
 ![tags]({{ site.url }}/paradigmsofglobalization/assets/images/Poverty WB.png)
 ![tags]({{ site.url }}/paradigmsofglobalization/assets/images/Poverty UN.png)
@@ -50,9 +69,12 @@ but for the UN it was not until the 2000.
 
 
 # **Health**
-The term "health" is another example of our hypothesis of the social issues prevalence during the third wave of globalization. 
-However, in this case, the WB started to mention it a lot during the 70s, way before the UN, where it reached its' highest peak at the 2000.
-Nevertheless, in both cases, it is more frequent during the last 30 years of the XXth century, providing a reason that supports our hypothesis.
+The term "health" is another example of our hypothesis of the rising prevalence of social issues during the third wave of globalization. 
+However, in this case, the World Bank first started to mention it a lot during the 1970's, three decades before the UN, where it reached its highest peak only the year 2000.
+
+<iframe src="https://giphy.com/embed/BqxrLook9LQYg" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GiveAGIF-giveagif-BqxrLook9LQYg">via GIPHY</a></p>
+
+Nevertheless, in both cases, it is more frequent during the last 30 years of the 20th century, providing a reason that supports our hypothesis.
 
 ![tags]({{ site.url }}/paradigmsofglobalization/assets/images/Health UN.png)
 
@@ -60,16 +82,16 @@ Nevertheless, in both cases, it is more frequent during the last 30 years of the
 
 
 # **Climate**
-As mentioned before, not only were social issues were important during the third wave of globalization, but others also such as climate, proving that a general perspective shift occurred during the second half of the XXth century for the WB and the UN  in terms of public policy, priorities and development strategies. 
+As mentioned before, not only were *social* issues were important during the third wave of globalization, but the more holistic view of development in general led to the rise of other important global isseus, such as climate, to rise to the fore as well.
+
+proving that a general perspective shift occurred during the second half of the 20th century for the WB and the UN  in terms of public policy, priorities and development strategies. 
+
+<iframe src="https://giphy.com/embed/l1J9IIz6tHJ4YnFFC" width="600" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></td><td>
 
 
-> <table>
-> <tr>
-> <td><iframe src="https://giphy.com/embed/l1J9IIz6tHJ4YnFFC" width="600" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></td><td><iframe src="https://giphy.com/embed/ZRNw5cKiqj2vK" width="600" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></td>
-> </tr>
-> </table>
 
-> <br>
+<iframe src="https://giphy.com/embed/ZRNw5cKiqj2vK" width="600" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></td>
+
 
 
 However, discussion about climate is strictly related to industrialization policies, trade, natural ressources and big scale industry. So the rise of this new topic is the rise of the discussin about the consequences of policies related to development, wealth and trade that we had during the XXth century. 
