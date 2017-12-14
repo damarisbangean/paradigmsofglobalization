@@ -22,9 +22,9 @@ Once we have our "clean" list of country names, we run an Epic Epoch to see how 
 
 From this geopolitical epic epoch analysis we can also see the evolution of world events such as:
 
-- India-Pakistan War in 1965
-- India-China Nathu La and Cho La clash in 1967
-- Arab-Israel 6 day war in 1967
+- [India-Pakistan War in 1965](https://history.state.gov/milestones/1961-1968/india-pakistan-war)
+- [India-China Nathu La and Cho La clash in 1967](https://en.wikipedia.org/wiki/Nathu_La_and_Cho_La_clashes)
+- [Arab-Israel 6 day war in 1967](http://www.bbc.com/news/world-middle-east-39960461)
 - Japanese asset price bubble between 1986 to 1991
 - Fall of the Soviet of Soviet Union in 1991
 
