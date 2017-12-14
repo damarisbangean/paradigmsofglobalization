@@ -2,6 +2,16 @@
 
 **Comparison between the World Bank and the United Nations**
 
+For this section we chose five words to see in more detail the differences between in the UN and WB globalization approach during the second and the third wave of globalization. From our term list, we chose two words that were representative of both waves. Our hypothesis, is that during the second wave of globalization, international organizations had a more "economic and trade" approach, and during the third wave, social and distributive subjects took the lead in the discussion. 
+
+Second wave terms: "Trade" and "private sector"
+Third wave terms: "Poverty" and "health"
+
+Finally, we also include a fifth term that we noticed during the analysis of the data: a new topic arose as one of the most mentioned in the reports from both organizations "climate". Discussión about global warming, CO2, climate change, sea level and, in general, dangers derived from big scale industry, has become one of the main characters of the conceptualization of development in the latest years. 
+
+In general, we can see that the UN is always some years behind the WB in terms of including new concepts in their reports. The WB has the lead in the development determinant analysis. 
+
+
 # Trade
 International trade has shaped economic performance and wealth of the world. 
 Even if a wealthier world does not necessarily means more equity or a better quality of life for everybody, 
@@ -50,9 +60,9 @@ Nevertheless, in both cases, it is more frequent during the last 30 years of the
 
 
 # Climate
-Not only social issues were more important during the second wave of globalization, but others also such as climate, proving that a
-general perspective shift occurred during in teh WB and the UN the second half of the XXth century in terms of public policy, priorities
-and development strategies. 
+As mentioned before, not only social issues were more important during the second wave of globalization, but others also such as climate, proving that a general perspective shift occurred during the second half of the XXth century for the WB and the UN  in terms of public policy, priorities and development strategies. 
+
+However, discussion abour climate is strictly related to industrialization policies, trade, natural ressources and big scale industry. So the rise of this new topic is the rise of the discussin about the consequences of policies related to development, wealth and trade that we had during the XXth century. 
 
 ![tags]({{ site.url }}/paradigmsofglobalization/assets/images/Climate UN.png)
 
