@@ -3,13 +3,13 @@
 
 ### **Methodology**
 
-While exploring our data, we ran it through the Demography tool on CorText. Demography processes each field of the corpus and counts the raw evolution of occurrences of the top items. We used the "temporal evolution directory" where each field of the corpus will be enumerated over time in a csv file compiling the occurrences at each time step of the top items of the given field (original count of occurrences). We then used the "normalisation" option on CorText, as the reports included in our corpus were of varying magnitudes. 
+While exploring our data, we ran it through the [Demography](https://docs.cortext.net/demography/) tool on CorText. Demography processes each field of the corpus and counts the raw evolution of occurrences of the top items. We used the "temporal evolution directory" where each field of the corpus will be enumerated over time in a csv file compiling the occurrences at each time step of the top items of the given field (original count of occurrences). We then used the "normalisation" option on CorText, as the reports included in our corpus were of varying magnitudes. 
 
 We analysed the evolution of our predetermined list of key items in the reports of the United Nations from 1947 till 2011 and in our reports of the World Bank from 1946 to 2012.
 
-### **How to use the graphs**
+### **Analysis of Demography Graphs**
 
-We offer some insights and analysis but you can use the graphs below to draw your own conclusions. As long as all words are included the display is rather difficult to interpret, but you can choose which items to display by clicking on the sign next to them. Additionally, you can switch between different designs of display.
+We offer some insights and analysis here, but you can use the graphs below to draw your own conclusions. As long as all words are included the display is rather difficult to interpret, but you can choose which items to display by clicking on the sign next to them. Additionally, you can switch between different designs of display.
 
 ### **United Nations:** Results & Interpretation
 The top terms in our demography are as follows:
@@ -18,7 +18,7 @@ The top terms in our demography are as follows:
 
 From this demography process, we can see that the evolution of terms over 1947 till 2011 shows the change in focus of the UN. The United Nations was founded with the objective of maintaining international peace, and to foster friendly relations among nations. Terms such as **war**, **peace** and **exploitation** were more frequently used in the 1950s. War for instance appeared with a frequency of 1026 in 1947 wheareas by 2011 it declined to a frequency of 1.
 
-Other terms that were frequently used earlier were **tariffs**, **technical assistance** and **taxation** in the second wave of globalisation. This was a period when the focus on development was more **technical**. It was also a period where the prime focus was on economic growth rather than development. It was during the second phase of globalisation that the Asian Tiger economies reached their peak. 
+Other terms that were frequently employed throughout the reports were **tariffs**, **technical assistance** and **taxation** in the earlier "second wave" of globalisation. This was a period when the focus on development was more **technical**. It was also a period where the prime focus was on economic growth rather than development. It was during the second phase of globalisation that the Asian Tiger economies reached their peak. 
 
 The shift in focus towards a more social and humanitarian approach was in the 1990's where terms like **sustainable development**, appeared for the first time 1988. Other terms like **climate**, **health**, **renewable** and **environment** were also terms that appeared more frequently only post the 1970s. The term renewable had a frequency of only 2 in 1947 but by 2011 it reached a frequency of 76. The term environment had a frequency of only 2 in 1953 but reached a frequency of 76 by 2011. This is line with what we expected as environmental movements gained momentum only after the SMIC Conference (Study of Man's Impact on Climate) reported the danger of rapid and serious global change caused by humans. 
 
