@@ -30,7 +30,7 @@ From this geopolitical epic epoch analysis we can also see the evolution of worl
 
 ![tags]({{ site.url }}/paradigmsofglobalization/assets/images/Soviet_end.jpg)
 
-- Martial Law in Poland in 1980
+- [Martial Law in Poland in 1980](https://en.wikipedia.org/wiki/Martial_law_in_Poland)
 - The Global Financial Crisis in 2007-2008
 
 
