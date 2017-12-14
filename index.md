@@ -8,7 +8,7 @@ Still, globalization remains an ambiguous term and its naming and manifestation 
 
 > <table>
 > <tr>
-> <td><![tags]({{ site.url }}/paradigmsofglobalization/assets/images/wblogo.jpg)></td><td>,![tags]({{ site.url }}/paradigmsofglobalization/assets/images/unlogo.png)></td>
+> <td>![tags]({{ site.url }}/paradigmsofglobalization/assets/images/wblogo.jpg)</td><td>,![tags]({{ site.url }}/paradigmsofglobalization/assets/images/unlogo.png)</td>
 > </tr>
 > </table>
 
