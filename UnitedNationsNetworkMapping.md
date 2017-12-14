@@ -17,7 +17,7 @@ School and education nodes' most important word is growth, which is a clear indi
 
 ![tags]({{ site.url }}/paradigmsofglobalization/assets/images/Education Network mapping UN.png)
 
-Industrialization and production node is a very "clasic" one with all the words from the "traditional" economic focus: industrialization, investment, capital, trade, exports, production, employment. However, it is important to notice the presence of words such as: War, India and China, that show at what extent those two countries were key players in the world economic performance during the second half of the XXth century, as well as how the war(s) defined and shaped industrialization history of the world. 
+Industrialization and production node is a very "classic" one with all the words from the "traditional" economic focus: industrialization, investment, capital, trade, exports, production, employment. However, it is important to notice the presence of words such as: War, India and China, that show at what extent those two countries were key players in the world economic performance during the second half of the XXth century, as well as how the war(s) defined and shaped industrialization history of the world. 
 
 ![tags]({{ site.url }}/paradigmsofglobalization/assets/images/Industrialization Network mapping UN.png)
 
@@ -25,9 +25,15 @@ What it is most important is the close relation between Globalization and risk; 
 
 ![tags]({{ site.url }}/paradigmsofglobalization/assets/images/Globalization and risk NM UN.png)
 
+**Notice the framing of the Sustainable Development Goals related to these topics:**
+> <table>
+> <tr>
+> <td><iframe src="https://giphy.com/embed/k5IUxv1sLWQV2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GiveAGIF-giveagif-k5IUxv1sLWQV2"></td><td><iframe src="https://giphy.com/embed/k5IUxv1sLWQV2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GiveAGIF-giveagif-k5IUxv1sLWQV2">
+> </tr>
+> </table>
 
+> <br>
 
-<iframe src="https://giphy.com/embed/ZRNw5cKiqj2vK" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GiveAGIF-giveagif-ZRNw5cKiqj2vK">via GIPHY</a></p>
 
 
 
