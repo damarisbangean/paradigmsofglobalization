@@ -26,4 +26,9 @@ What it is most important is the close relation between Globalization and risk; 
 ![tags]({{ site.url }}/paradigmsofglobalization/assets/images/Globalization and risk NM UN.png)
 
 
+
+<iframe src="https://giphy.com/embed/ZRNw5cKiqj2vK" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GiveAGIF-giveagif-ZRNw5cKiqj2vK">via GIPHY</a></p>
+
+
+
 > [Home](index.md) - [Previous Page](epic.md) - [Next Page](worldbankdnetworkmap.md)
