@@ -15,11 +15,11 @@ Similar to our demography analysis, the we ran the epic epoch analysis for the d
 
 > <iframe src="https://documents.cortext.net/c0d8/c0d8c7ed8f3ecccb3b268c168ace5b36/53629/bumpy.html" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1000" height="1000" allowfullscreen></iframe>
 
-The UN was founded following the Second World War, in 1945 with 50 nations with the aim of maintaining international peace and security after the world war. From this epic epoch analysis we can see that terms such as **"war"** which was frequently used in the 1950s faded out by the 1970s. 
+The UN was founded following the Second World War, in 1945 with 50 nations with the aim of maintaining international peace and security after the world war. From this epic epoch analysis we can see that terms such as **"war"** which was frequently used in the 1950s faded out by the 1960s. 
 
-Other words like **"industrialisation"**, **"exports"** and **"investment"** were more prominent in the second wave of globalization and faded out by the third wave. We can also see that **trade** and **investment** were terms that were frequently used in the annual reports of the 1960s. 
+In January 1961, the United Nations resolved that the decade of the 1960s would be the decade of development. Thus, the organisation expanded its motto towards securing both international peace and prosperity. Terms words like **"industrialisation"**, **"exports"** and **"investment"** testify that the organisation shifted its focus towards acheieving development through industrialisation.
 
-In the third wave of globalisation there is a change in the focus of the United Nations towards a more socioeconomic approach and terms such as **"health"**, **"development"**, **energy** and **"climate"** were frequently used. From a purely economic perspective of development the United Nations shifted its focus to also solving international problems of an economic, social, cultural, or humanitarian character. 
+In the third wave of globalisation there is once again a change in the focus of the United Nations towards a more socioeconomic approach and terms such as **"health"**, **"development"**, **energy** and **"climate"** were frequently used. From a purely economic perspective of development the United Nations shifted its focus to also solving international problems of an economic, social, cultural, or humanitarian character. 
 
 ## **World Bank**
 
