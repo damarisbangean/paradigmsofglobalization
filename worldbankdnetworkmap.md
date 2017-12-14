@@ -22,7 +22,7 @@ In figure above, we can see that low income countries connects East Asia, Latin 
 
 The Blue cluster is also linked significantly to the orange cluster which is named Agriculture and Health. In Figure below, we notice edges from agriculture production to population growth, South Asia, etc which suggests how the developing countries are connected to agricultural production (which south asia, India, Pakistan, Sri Lanka etc actually are).
 
-![wb3]({{ site.url }}/paradigmsofglobalization/assets/images/3.PNG)
+> ![wb3]({{ site.url }}/paradigmsofglobalization/assets/images/3.PNG)
 
 It is interesting to note that the edge between Health Care and Federal Republic of Germany is the only link between the cluster named Developed Countries and Agriculture and Health. 
 
