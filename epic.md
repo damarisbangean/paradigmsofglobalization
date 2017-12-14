@@ -13,8 +13,6 @@ It acts in three steps:
 
 Similar to our demography analysis, the we ran the epic epoch analysis for the data that was available between the years 1947 and 2011. The dip between 1990-2000, is due to missing data for that period.
 
-![af](https://github.com/damarisbangean/paradigmsofglobalization/blob/master/assets/images/epic.epoch.%20UN.png)
-
 > <iframe src="https://documents.cortext.net/c0d8/c0d8c7ed8f3ecccb3b268c168ace5b36/53629/bumpy.html" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1000" height="1000" allowfullscreen></iframe>
 
 The UN was founded following the Second World War, in 1945 with 50 nations with the aim of maintaining international peace and security after the world war. From this epic epoch analysis we can see that terms such as **"war"** which was frequently used in the 1950s faded out by the 1970s. 
