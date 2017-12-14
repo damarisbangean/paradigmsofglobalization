@@ -69,3 +69,4 @@ However, discussion abour climate is strictly related to industrialization polic
 ![tags]({{ site.url }}/paradigmsofglobalization/assets/images/Climate WB.png)
 
 
+> [Home](index.md) - [Next Page](Demography.md)
