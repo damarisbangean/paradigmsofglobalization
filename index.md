@@ -4,27 +4,28 @@ In the last 150 years, the world has experienced three **"waves of globalization
 
 Globalization manifested itself very differently around the world and not every country has profited from more integration and open borders. Some countries were able to catch up while others fell even further behind. Some countries found a global market for their products and became important exporting nations, while others accumulated huge import surpluses. Every wave of globalization was followed by a backlash in the form of rising **protectionism and isolationism**.
 
-Still, globalization remains an ambiguous term and its maining and manifestation may have changed during the waves of globalization the world has experienced so far. **International organisations** shape and drive globalization because they are global rule and standard setters and are deeply involved with supporting sustainable development and building a more prosperous world for everybody. Following World War II, two of the major international organizations that essentially embody the process of globalization came into being: the **World Bank (1944)** and the **United Nations (1945)**.
+Still, globalization remains an ambiguous term and its naming and manifestation may have changed during the waves of globalization the world has experienced so far. In all of this, **international organisations** shape and drive globalization because they are global rule and standard setters and are deeply involved with supporting sustainable development and building a more prosperous world for everybody. Following World War II, two of the major international organizations that essentially embody the process of globalization came into being: the **World Bank (1944)** and the **United Nations (1945)**.
 
 These two organizations have different missions, different political scopes and a different approach to promoting and shaping globalization. **We want to find out how their approaches differ, how their understanding of globalization and its paradigms has changed over time and where we are now.**
 
 Please feel free to browse this website, discover our results on the following pages and give us some feedback on your experience.
 
-On this homepage you are able to read more about our methodology, our sources and our approach. So, keep reading if your are interested in these details of our research project. Otherwise, you can choose a different page and dive right into our results and interpretation. 
+On this homepage you are able to read more about our methodology, our sources and our approach. So, keep reading if you are interested in these details of our research project. Otherwise, you can choose a different page and dive right into our results and interpretation. 
 
 But, let's have a look at what our two international organizations do and how they differ first!
 
 ## **World Bank**
-
+![tags]({{ site.url }}/paradigmsofglobalization/assets/images/wblogo.jpg)
 The World Bank was created in 1944 as one of the **Bretton Woods institutions** together with the International Monetary Fund. It is therefore an international financial institution and provides loans to countries for capital programs and has currently 189 member states. The World Bank comprises the International Bank for Reconstruction and Development (IBRD) and the International Development Association (IDA). Its mission is the **ending of extreme poverty** and building shared prosperity. But, it is also committed to the achieve these goals through the **promotion of foreign direct investment and the liberalization of international trade**.
 
-I you prefer to listen to an explanation: Here is a short video of the **World Bank Group President Jim Yong Kim** talking about the three pillars that will drive momentum toward ending extreme poverty by 2030 and boosting shared prosperity.
+If you prefer to listen to an explanation: Here is a short video of the **World Bank Group President Jim Yong Kim** talking about the three pillars that will drive momentum toward ending extreme poverty by 2030 and boosting shared prosperity.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K21VDmQo8VI" frameborder="0" allowfullscreen></iframe>
 
 ## **United Nations** 
+![tags]({{ site.url }}/paradigmsofglobalization/assets/images/unlogo.jpg)
 
-The United Nations are probably the most well known international organization. They were founded in 1945 as a collective answer to WW II. They currently have 193 member states. The mission and the work of the UN are guided by te purposed and principles contained in its founding Charter. The UN's main goal is maintaining **international peace and security**, but they work in many different fields. They also work towards achieving international co-operation in solving international problems of an economic, social, cultural, or humanitarian character. One part of this international cooperation were the Millennium Development Goals that were replaced by the **Sustainable Development Goals** in 2015. These goals include for example the fight against poverty and hunger. In working towards sustainable development for all countries, the UN is trying to make sure that globalization works for everyone.
+The United Nations is probably the most well known international organization. They were founded in 1945 as a collective answer to World War II. They currently have 193 member states. The mission and the work of the UN are guided by the purposes and principles contained in its founding Charter. The UN's main goal is maintaining **international peace and security**, but they work in many different fields. They also work towards achieving international co-operation in solving international problems of an economic, social, cultural, or humanitarian character. One part of this international cooperation were the Millennium Development Goals that were replaced by the **Sustainable Development Goals** in 2015. These goals include for example the fight against poverty and hunger. In working towards sustainable development for all countries, the UN is trying to make sure that globalization works for everyone.
 
 As we can see, the UN covers a **broader range of topics** compared to the World Bank. They have a more **humanitarian and social outlook** and don't have an underlying interest in promoting FDI or free trade.
 
@@ -46,7 +47,7 @@ Below you can find out more about our research design. You can read our research
 - **H0:** No change can be observed. 
 - **H1:** There is a perceptible change between the second and third wave of globalization.
 
-**Question 2:** If so, has the focus on international organizations changed from a pure economic focus to more a social economic focus? 
+**Question 2:** If so, has the focus on international organizations changed from a pure economic focus to a more social economic focus? 
 - **H0:** The observed change can not be interpreted as a shift from pure economic to social economic. 
 - **H1:** A change is observable from a purely economic focus (second wave) to a social economic focus (third wave).
 
@@ -59,16 +60,13 @@ Below you can find out more about our research design. You can read our research
 
 ## **Corpus** 
 
-We habe worked with Annual Reports by the World Bank (1946-2012) and Annual Reports by the United Nations (1945-2011). Unfortunately, some reports by the UN are missing for certain years. You can read more about this in our **Limitations**. We had to convert the UN reports into txt - files in order to work with them in CorText. Some reports were diviided into several documents and had to be merged. In the end, we worked with 49 UN files and 66 World Bank files.
+We have worked with Annual Reports by the World Bank (1946-2012) and Annual Reports by the United Nations (1945-2011). Unfortunately, some reports by the UN are missing for certain years. You can read more about this in our **Limitations**. We had to convert the UN reports into txt - files in order to work with them in CorText. Some reports were diviided into several documents and had to be merged. In the end, we worked with 49 UN files and 66 World Bank files.
 
 We analysed the corpus by using a list of key words called terms list. We extracted a terms list from our corpus, but the initial results were unsastifactory and didn't advance our research interest. To address our research questions, we decided to create our own terms list. We developed a terms list based on the UN Sustainable Development Goals.
 
+![tags]({{ site.url }}/paradigmsofglobalization/assets/images/SDGs_logos.jpg)
 
 
-<iframe class="scribd_iframe_embed" src="https://www.scribd.com/embeds/341852935/content?start_page=1&view_mode=scroll&access_key=key-QBYckJevb4n2sVehoVJU&show_recommendations=true" data-auto-height="false" data-aspect-ratio="0.7068965517241379" scrolling="no" id="doc_93562" width="100%" height="600" frameborder="0"></iframe>
 
-
-create a citation withing the text:
-
-> Les squelettes blancs vont à travers l'ombre
+> [Home](index.md) - [Previous Page](internationalrelations.md) - [Next Page](finalpage.md)
 
