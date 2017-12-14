@@ -35,7 +35,7 @@ From this geopolitical epic epoch analysis we can also see the evolution of worl
 - India-Pakistan War in 1965
 - India-China Nathu La and Cho La clash in 1967
 - Arab-Israel 6 day war in 1967
-- Japanese asset price bubble between 1986 to 1991
+- Japanese asset price bubble between 1986 and 1991
 - Fall of the Soviet of Soviet Union in 1991
 - Martial Law in Poland in 1980
 - Global Financial Crisis in 2007-2008
