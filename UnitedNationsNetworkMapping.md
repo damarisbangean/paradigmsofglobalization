@@ -28,7 +28,7 @@ What it is most important is the close relation between Globalization and risk; 
 **Notice the framing of the Sustainable Development Goals related to these topics:**
 > <table>
 > <tr>
-> <td><iframe src="https://giphy.com/embed/k5IUxv1sLWQV2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GiveAGIF-giveagif-k5IUxv1sLWQV2"></td><td><iframe src="https://giphy.com/embed/k5IUxv1sLWQV2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GiveAGIF-giveagif-k5IUxv1sLWQV2">
+> <td><iframe src=<iframe src=<iframe src="https://giphy.com/embed/oRHfTKmqVIucM" width="800" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GiveAGIF-oRHfTKmqVIucM">via GIPHY</a></p></td><td><iframe src="https://giphy.com/embed/k5IUxv1sLWQV2" width="800" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GiveAGIF-giveagif-k5IUxv1sLWQV2">
 > </tr>
 > </table>
 
