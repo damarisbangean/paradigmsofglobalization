@@ -32,9 +32,13 @@ In the third wave of globalisation there is a change in the focus of the United 
 
 From this geopolitical epic epoch analysis we can also see the evolution of world events such as:
 
-- India-China Nathu La and Cho La clash in the year 1967
-- Japanese asset price bubble between 1986
-- 1991 fall of the Soviet of Soviet Union in 1991. 
+- India-Pakistan War in 1965
+- India-China Nathu La and Cho La clash in 1967
+- Arab-Israel 6 day war in 1967
+- Japanese asset price bubble between 1986 to 1991
+- Fall of the Soviet of Soviet Union in 1991
+- Martial Law in Poland in 1980
+- Global Financial Crisis in 2007-2008
 
 
 ## **World Bank**
