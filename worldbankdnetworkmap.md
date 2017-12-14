@@ -1,6 +1,6 @@
 # World Bank - Network Map
 
-The data set was parsed by splitting the original text into paragraphs. After parsing the data set successfully, term extraction was conducted to get a list of 100 terms from the data set. The list generated has “noun phrases” as the grammatical criteria. Finally, the network map was obtained using the Network Mapping script of Cortext. 
+The data set was parsed by splitting the original text into paragraphs. After parsing the data set successfully, term extraction was conducted to get a list of 100 terms from the data set. The list generated has “noun phrases” as the grammatical criteria. Finally, the network map was obtained using the [Network Mapping](https://docs.cortext.net/analysis-mapping-heterogeneous-networks/) script of Cortext. 
 
 > <iframe src="https://documents.cortext.net/8e9c/8e9ce298e1176ebf9442e23c54fb4060/55822/maps/hn-worldbank1946_2012top150-Terms-Terms-distributionalcooc-99999-oT0.36-9999-louTrue.pdf" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="800" height="800" allowfullscreen></iframe>
 
