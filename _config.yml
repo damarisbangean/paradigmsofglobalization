@@ -1,7 +1,7 @@
 
 theme: jekyll-theme-cayman
 title: Paradigms of Globlization
-description: And this is the textual description of your website 
+description: A closer look at the UN & WB
 menu: [
 {'name': 'Home', 'pagename': 'index'}, 
 {'name': 'Key Terms Frequency', 'pagename': 'Key_Words_Frequency'}, 
