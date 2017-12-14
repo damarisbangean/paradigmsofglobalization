@@ -27,6 +27,7 @@ From this geopolitical epic epoch analysis we can also see the evolution of worl
 - Arab-Israel 6 day war in 1967
 - Japanese asset price bubble between 1986 to 1991
 - Fall of the Soviet of Soviet Union in 1991
+
 ![tags]({{ site.url }}/paradigmsofglobalization/assets/images/Soviet_end.jpg)
 
 - Martial Law in Poland in 1980
@@ -48,6 +49,6 @@ Unsurprisingly, the US figures most prominently throughout the reports. But, sma
 - Bosnian genocide 1995 
 - West bank and Gaza 1993/1995 
 - Bangladesh 2004 tsunami
--([Start of Arab spring December 2010](https://www.npr.org/2011/12/17/143897126/the-arab-spring-a-year-of-revolution)
+- [Start of Arab spring December 2010](https://www.npr.org/2011/12/17/143897126/the-arab-spring-a-year-of-revolution)
 
 
