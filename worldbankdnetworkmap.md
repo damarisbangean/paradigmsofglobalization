@@ -32,4 +32,4 @@ This is an important link as it might be telling us about the terms of the loans
 
 The network Map produced is highly insightful if one wants to understand the subtle links between the focus of the World Bank. It is interesting to see how some the nodes are small, but they do serve as connectors. The analysis of a corpus becomes much more interesting when we run a network mapping script. Network mapping is an essential tool if one wants to discover linkages and dig deeper into the corpus. 
 
-
+[Home](index.md) - [Previous Page](UnitedNationsNetworkMapping.md) - [Next Page](GeographicEpicEpoch.md)
