@@ -34,7 +34,6 @@ From this geopolitical epic epoch analysis we can also see the evolution of worl
 - The Global Financial Crisis in 2007-2008
 
 
-
 ### **World Bank: Geographic Analysis**
 Here are the most commonly occuring countries in the World Bank's World Economic and Social Survey reports from 1946 to 2015 
 
