@@ -28,10 +28,7 @@ If you prefer to listen to an explanation: Here is a short video of the **World 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K21VDmQo8VI" frameborder="0" allowfullscreen></iframe>
 
 
-
-
 ![tags]({{ site.url }}/paradigmsofglobalization/assets/images/unlogo.png)
-
 
 
 ## **United Nations** 
@@ -86,7 +83,6 @@ In the end, we worked with 49 UN files and 66 World Bank files.
 We analysed the corpus by using a list of key words called terms list. We extracted a terms list from our corpus, but the initial results were unsastifactory and didn't advance our research interest. To address our research questions, we decided to create our own terms list. We developed a terms list based on the UN Sustainable Development Goals.
 
 ![tags]({{ site.url }}/paradigmsofglobalization/assets/images/SDGs_logos.jpg)
-
 
 
 
