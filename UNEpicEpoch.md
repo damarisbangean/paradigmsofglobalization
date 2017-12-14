@@ -1,6 +1,6 @@
 # **Epic Epoch: United Nations & World Bank**
 
-## **United Nations**
+## Methodology
 
 The Epic Epoch is a simple script for tracking dramatic changes in the composition of a field over time on CorText.
 It acts in three steps:
@@ -9,11 +9,9 @@ It acts in three steps:
 2. A frequency timeline is built for each of the selected terms
 3. A bump graph shows the evolution of frequency and ranking through time
 
-Presented below is the epic epoch analysis for the UN corpus. 
+## **United Nations**
 
-Similar to our demography analysis, the we ran the epic epoch analysis for the data that was available between the years 1947 and 2011. 
-
-The dip between 1990-2000, is due to missing data for that period.
+Similar to our demography analysis, the we ran the epic epoch analysis for the data that was available between the years 1947 and 2011. The dip between 1990-2000, is due to missing data for that period.
 
 ![af](https://github.com/damarisbangean/paradigmsofglobalization/blob/master/assets/images/epic.epoch.%20UN.png)
 
@@ -24,22 +22,6 @@ The UN was founded following the Second World War, in 1945 with 50 nations with 
 Other words like **"industrialisation"**, **"exports"** and **"investment"** were more prominent in the second wave of globalization and faded out by the third wave. We can also see that **trade** and **investment** were terms that were frequently used in the annual reports of the 1960s. 
 
 In the third wave of globalisation there is a change in the focus of the United Nations towards a more socioeconomic approach and terms such as **"health"**, **"development"**, **energy** and **"climate"** were frequently used. From a purely economic perspective of development the United Nations shifted its focus to also solving international problems of an economic, social, cultural, or humanitarian character. 
- 
-
-### **United Nations: Geographic Analysis**
-
-<iframe src="https://documents.cortext.net/3afd/3afd13b6f13d9e812a35205d0a3d6e84/55850/bumpy.html" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1000" height="1000" allowfullscreen></iframe>
-
-From this geopolitical epic epoch analysis we can also see the evolution of world events such as:
-
-- India-Pakistan War in 1965
-- India-China Nathu La and Cho La clash in 1967
-- Arab-Israel 6 day war in 1967
-- Japanese asset price bubble between 1986 and 1991
-- Fall of the Soviet of Soviet Union in 1991
-- Martial Law in Poland in 1980
-- Global Financial Crisis in 2007-2008
-
 
 ## **World Bank**
 
@@ -56,30 +38,4 @@ Maybe due too the **global financial crisis** in 2007/2008 and its aftermath, wo
 > <iframe src="https://documents.cortext.net/8899/8899fc31ae8511600523066d5bf11037/52804/bumpy.html" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1000" height="1000" allowfullscreen></iframe>
 
 
-### **World Bank: Geographic Analysis**
-Here we run an epic epoch on Cortext to analyze the most frequently occuring country names in the World Bank reports. 
-First, we run a Name Entity Recognizer on the corpus to extract the most frequently occuring terms, and we standardize the list names to avoid double counting names when they might just be the same place (i.e. The United States, the US, the U.S. all become different recognizable forms of the "United States") 
-
-Here is our "clean" list of country names that we will use: 
-
-#### **Term List**
-
-> <iframe src="https://docs.google.com/a/sciencespo.fr/spreadsheets/d/1tF_U7ZMbhaeNWkYaYExDcN3MQUNGQczto7o-nxAzUkw/edit?usp=sharing" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="800" height="800" allowfullscreen></iframe>
-
-Once we have our "clean" list of country names, we run an Epic Epoch. 
-
-An Epic Epoch is a simple script for tracking dramatic changes in the composition of a field over time. It acts in three steps:
-- First, the N most frequently occurring entities are selected at each time period,
-- A frequency timeline is built for each of the selected terms
-- A bump graph shows the evolution of frequency and ranking through time
-
-
-Unsurprisingly, the US figures most prominently throughout the reports. But, smaller countries also rise and fall over time, as evidenced by major world events.  
-- Indonesian mass killings of 1965–1966
-- Japan’s rise in 1990 at the start of its financial crisis
-- Poland’s 1989 revolution against Communism
-- Bosnian genocide 1995 
-- West bank and Gaza 1993/1995 
-- Bangladesh 2004 tsunami
-- Start of Arab spring December 2010
 
