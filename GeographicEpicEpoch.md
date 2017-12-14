@@ -45,7 +45,7 @@ Unsurprisingly, the US figures most prominently throughout the reports. But, sma
 - [Indonesian mass killings of 1965–1966](https://en.wikipedia.org/wiki/Indonesian_mass_killings_of_1965%E2%80%931966)
 - Japan’s rise in 1990 at the start of its financial crisis
 - Poland’s 1989 revolution against Communism
-- Bosnian genocide 1995 
+- [Bosnian genocide 1995](http://www.history.com/topics/bosnian-genocide) 
 - West bank and Gaza 1993/1995 
 - Bangladesh 2004 tsunami
 - [Start of Arab spring December 2010](https://www.npr.org/2011/12/17/143897126/the-arab-spring-a-year-of-revolution)
