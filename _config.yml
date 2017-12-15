@@ -2,7 +2,6 @@
 theme: jekyll-theme-cayman
 title: Paradigms of Globlization
 description: A closer look at the United Nations & World Bank
-
 menu: [
 {'name': 'Home', 'pagename': 'index'}, 
 {'name': 'Key Terms Frequency', 'pagename': 'Key_Words_Frequency'}, 
