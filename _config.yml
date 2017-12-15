@@ -12,6 +12,6 @@ menu: [
 {'name': 'Geographic Epic Epoch', 'pagename': 'GeographicEpicEpoch'}, 
 {'name': 'Visualizing International Relations', 'pagename': 'internationalrelations'},
 {'name': 'Limitations', 'pagename': 'Limitations'}, 
-{'name': 'Feedback', 'pagename': 'finalpage'}
+{'name': 'Feedback', 'pagename': 'finalpage'},
 {'name': 'Feelling Inspired', 'pagename': 'inspired'}
 ]
