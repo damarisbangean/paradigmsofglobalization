@@ -2,7 +2,9 @@
 theme: jekyll-theme-cayman
 title: Paradigms of Globlization
 description: A closer look at the UN & WB
-menu: [{'name': 'Home', 'pagename': 'index'}, 
+
+menu: [
+{'name': 'Home', 'pagename': 'index'}, 
 {'name': 'Key Terms Frequency', 'pagename': 'Key_Words_Frequency'}, 
 {'name': 'Demography : United Nations & World Bank', 'pagename': 'Demography'}, 
 {'name': 'Epic Epoch: United Nations & World Bank', 'pagename': 'epic'}, 
@@ -12,4 +14,5 @@ menu: [{'name': 'Home', 'pagename': 'index'},
 {'name': 'Visualizing International Relations', 'pagename': 'internationalrelations'},
 {'name': 'Limitations', 'pagename': 'Limitations'}, 
 {'name': 'Feedback', 'pagename': 'finalpage'}
-{'name': 'Feelling Inspired?', 'pagename': 'inspired'}]
+{'name': 'Feelling Inspired?', 'pagename': 'inspired'}
+]
