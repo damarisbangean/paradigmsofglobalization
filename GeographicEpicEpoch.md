@@ -38,7 +38,10 @@ From this geopolitical epic epoch analysis we can also see the evolution of worl
 Here are the most commonly occuring countries in the World Bank's World Economic and Social Survey reports from 1946 to 2015 
 
 
-> <iframe src="https://documents.cortext.net/40f2/40f27a906efa0ca1b3d128f725a439ec/53056/bumpy.html" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1000" height="1000" allowfullscreen></iframe>
+<iframe src="https://documents.cortext.net/40f2/40f27a906efa0ca1b3d128f725a439ec/53056/bumpy.html" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1000" height="1000" allowfullscreen></iframe>
+
+
+> <iframe src="tps://documents.cortext.net/40f2/40f27a906efa0ca1b3d128f725a439ec/53056/bumpy.html" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;" width="1000" height="1000" allowfullscreen></iframe>
 
 
 Unsurprisingly, the US figures most prominently throughout the reports. But, smaller countries also rise and fall over time, as evidenced by major world events.  
