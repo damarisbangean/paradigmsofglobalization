@@ -45,4 +45,4 @@ Particularly, notice the "explosion" of countries that came after the dissolutio
 > People gather near a part of the Berlin Wall that has been broken down after the communist German Democratic Republic’s (GDR) decision to open borders between East and West Berlin, circa November 1989. (Photo by Carol Guzy/The Washington Post/Getty Images)
 
 
- [Home](index.md) - [Previous Page](worldbankdnetworkmap.md) - [Next Page](Limitations.md)
+ [Home](index.md) - [Previous Page](GeographicEpicEpoch.md) - [Next Page](Limitations.md)
