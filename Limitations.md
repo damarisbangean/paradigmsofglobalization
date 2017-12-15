@@ -1,5 +1,5 @@
 # Limitations and Problems with our project: 
-While we tried to be thorough, unfortunately there were some issues that hindered our project's analysis. 
+While we tried to be thorough, unfortunately there were some issues that hindered our project's execution. 
 
 # Initial problems 
 - At first, we also wanted to include reports from the [OECD](http://www.oecd.org/about/), which is an intergovernmental economic organisation with 35 member countries, founded in 1960 to stimulate economic progress and world trade.
